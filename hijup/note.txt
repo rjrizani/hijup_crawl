@@ -1,0 +1,16 @@
+fetch("https://www.hijup.com/id/skirt/141065-aurel-skirt-rok-basic-katun-putih")
+
+cd hijup
+scrapy crawl hijup_main
+scrapy crawl hijup_main -o output.csv
+scrapy crawl hijup_main -o skirt.csv
+
+https://www.hijup.com/id/categories/rok
+
+
+<div class="css-10fa2l5"><a class="css-ao95h1" href="/id/ciput/107374-basic-inner-bandana">
+                <div class="css-1us5m20">Basic Inner Bandana</div>
+            </a>
+            <a class="css-ao95h1" href="/id/brands/hijupbasic">
+                <div class="css-1im10e4">HIJUP BASIC</div>
+            </a>
