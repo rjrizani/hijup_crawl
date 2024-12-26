@@ -14,7 +14,7 @@ This project demonstrates how to use Scrapy to scrape marketplace websites.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rjrizani/scrapy_framework.git
+   https://github.com/rjrizani/hijup_crawl.git
 
 2. (Optional) Create a virtual environment
   
@@ -24,10 +24,9 @@ This project demonstrates how to use Scrapy to scrape marketplace websites.
 
 ## Running the Scraper
    ```bash
-  cd scrapy_framework/bookstoscrape
-  scrapy crawl books_main
-
-This will scrape book data and save it to a SQLite database by default.
+   cd hijup/hijup
+   scrapy crawl hijup_main
+   
 
 **Saving to CSV**
-    scrapy crawl books_main -o books.csv
+    scrapy crawl hijup_main -o output.csv
