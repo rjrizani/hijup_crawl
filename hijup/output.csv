@@ -1,84 +1,74 @@
-title,brand,price,description,material,size,color,url,img_url
-,Puru Kambera Official,299000,Delilah - Reese Plain Shirt dari Puru Kambera Official. Koleksi Shirt muslim terbaru dengan material yang nyaman dikenakan.,cotton popline,All Size,Pink,https://www.hijup.com/id/shirt/131361-delilah-reese-plain-shirt,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/710969/big_3.jpg
-Brownies,Bellissima,245000,Koleksi terbaru Safa Pleats Skirt Brownies dari Bellissima,Katun pleats,All Size,Brownies,https://www.hijup.com/id/skirt/86859-safa-pleats-skirt-brownies,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/469755/big_s-brownies.jpg
-Sand,Bellissima,245000,Safa Pleats Skirt Sand dari Bellissima. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,Katun pleats,All Size,Sand,https://www.hijup.com/id/skirt/86862-safa-pleats-skirt-sand,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/469761/big_s-sand.jpg
-,Mybamus,140000,"Hallo beauty! Siapa nih yang suka berpenampilan feminim? Mybamus ngeluarin produk barunya, Rok plisket berbahan hyga premium dengan desain feminim dan mudah dipadupadan kan dengan outfit apapun dan nyaman digunakan sehari-hari maupun acara formal.Yuk di checkout sekarang!
+brand,price,description,material,size,color,availability,url,img_url,scraped_at
+,Rp 875.000,,,,,Sold Out,https://www.hijup.com/id/products/new-arrival?product_search%5Bpage%5D=11,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/766254/smaller_BUTTONSCARVES_SWITZERLAND_SERIES_IN_CALLUNA_3.jpg,2024-12-26
+,Rp 120.000,,,,,Sold Out,https://www.hijup.com/id/products/new-arrival?product_search%5Bpage%5D=3,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/761353/smaller_WhatsApp_Image_2024-10-08_at_14.43.17__1_.jpeg,2024-12-26
+,Rp 595.000,,,,,Sold Out,https://www.hijup.com/id/products/new-arrival?product_search%5Bpage%5D=10,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/603036/smaller_NED_9478_Web.jpg,2024-12-26
+,Rp 58.650,,,,,Sold Out,https://www.hijup.com/id/products/new-arrival?product_search%5Bpage%5D=9,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/740263/smaller_v1-989-132137-217897-26424-46-325484.jpg,2024-12-26
+Mybamus,"IDR 75,000","Hello beauty! Kita ada yang baru nih! Cutbray pants yang memiliki tampilan casual dengan bahan yang lembut dan stretch jadi sangat nyaman untuk keseharian kamu. Padu padankan dengan blouse/tunik untuk menunjang ootd kamu semakin modis dan fashionable! Yuk check out sekarang! 
 ","
-",All size,Cocoa M19094 R83S3,https://www.hijup.com/id/skirt/140260-mybamus-kalisa-rok-plisket-premium,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/763261/big_WhatsApp_Image_2024-11-01_at_14.21.47__2_.jpeg
-,LEZAHRASIGNATURE,349000,Jasmin Pants (Kulot Jeans Basic) dari LEZAHRASIGNATURE. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Celana Soft Jeans,All Size/6006IN,Biru Muda,https://www.hijup.com/id/pants/140320-jasmin-pants-kulot-jeans-basic,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/763591/big_HJP_LB.jpg
-,Mybamus,220000,"Hello beauty! Buat kamu pecinta kemeja, kita punya kemeja basic dengan detail saku yang cantik dan kekinian. Punya detail motif bordir bunga di bagian depan, menambah kesan cantik dan unik saat dipakai. Padukan dengan bawahan favoritmu untuk menunjang ootd cantikmu! Untuk kerja oke, untuk hangout juga tetap kece. Yuk check out sekarang!
+- Hoka knit material
+",All size,Oat M19067 R72S1,Buy Now,https://www.hijup.com/en/pants/140150-mybamus-fuji-cutbray-pants-knit,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/762382/big_WhatsApp_Image_2024-10-21_at_15.46.36__2_.jpeg,2024-12-26
+,"IDR 875,000",,,,,Sold Out,https://www.hijup.com/en/products/new-arrival?product_search%5Bpage%5D=11,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/766254/smaller_BUTTONSCARVES_SWITZERLAND_SERIES_IN_CALLUNA_3.jpg,2024-12-26
+,Rp 100.000,,,,,Sold Out,https://www.hijup.com/id/products/new-arrival?product_search%5Bpage%5D=1,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/767018/smaller_23_NOVEMBER_2024_FG_RIDWAN__STUDIO_1_-38509.jpg,2024-12-26
+,"IDR 100,000",,,,,Sold Out,https://www.hijup.com/en/products/new-arrival?product_search%5Bpage%5D=1,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/767018/smaller_23_NOVEMBER_2024_FG_RIDWAN__STUDIO_1_-38509.jpg,2024-12-26
+,"IDR 475,000",,,,,Sold Out,https://www.hijup.com/en/products/new-arrival?product_search%5Bpage%5D=7,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/745371/smaller_BUTTONSCARVES_THE_CROWN_SERIES_SQUARE_IN_SUN_3.JPG,2024-12-26
+,"IDR 449,000",,,,,Sold Out,https://www.hijup.com/en/products/new-arrival?product_search%5Bpage%5D=4,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/765926/smaller_IMG_6396.JPG,2024-12-26
+,"IDR 118,888",,,,,Sold Out,https://www.hijup.com/en/products/new-arrival?product_search%5Bpage%5D=2,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/751981/smaller_1.jpg,2024-12-26
+,Rp 475.000,,,,,Sold Out,https://www.hijup.com/id/products/new-arrival?product_search%5Bpage%5D=8,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/760120/smaller_BUTTONSCARVES_HERMOSA_SQUARE_IN_BLEUET_2.jpg,2024-12-26
+,"IDR 113,400",,,,,Sold Out,https://www.hijup.com/en/categories/pants,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/611599/smaller_v1-586-110602-186317-25085-46-272641.jpg,2024-12-26
+,"IDR 795,000",,,,,Sold Out,https://www.hijup.com/en/products/new-arrival?product_search%5Bpage%5D=6,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/766532/smaller_KiaraShirt-Black.jpg,2024-12-26
+,"IDR 595,000",,,,,Sold Out,https://www.hijup.com/en/products/new-arrival?product_search%5Bpage%5D=10,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/603036/smaller_NED_9478_Web.jpg,2024-12-26
+,"IDR 58,650",,,,,Sold Out,https://www.hijup.com/en/products/new-arrival?product_search%5Bpage%5D=9,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/740263/smaller_v1-989-132137-217897-26424-46-325484.jpg,2024-12-26
+,"IDR 475,000",,,,,Sold Out,https://www.hijup.com/en/products/new-arrival?product_search%5Bpage%5D=8,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/760120/smaller_BUTTONSCARVES_HERMOSA_SQUARE_IN_BLEUET_2.jpg,2024-12-26
+,Rp 118.888,,,,,Sold Out,https://www.hijup.com/id/products/new-arrival?product_search%5Bpage%5D=2,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/751981/smaller_1.jpg,2024-12-26
+Mybamus,"IDR 88,000","Hello beauty! Siapa nih yang menanti-nanti denim series dari Mybamus? Kali ini yang spesial ada rok model duyung/mermaid yang super comfy dan eye catching! Rok yang satu ini bisa jadi opsi buat kamu yang ingin tampil stylish secara instan untuk outfit ngampus maupun hangout cantik bareng teman. Pilihan warnanya juga cantik dan menarik! Padu padankan dengan blouse atau kemeja favoritmu untuk look yang berbeda. Yuk check out sekarang!
 ","
-- toyobo material
-",All size,Black M18843 R77S1,https://www.hijup.com/id/shirt/137854-mybamus-tawa-embroidery-tops-kemeja-katun-bordir-bunga,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/748762/big_WhatsApp_Image_2024-07-06_at_09.54.31__1_.jpeg
-,Mybamus,180000,"Hello beauty! Pecinta outfit vintage yuk merapat! Kita punya kemeja yang dilayer dengan ruffle knit vintage di bagian depannya,  super cantik dan menambah kesan classy. Kemeja yang 
-satu ini bisa jadi andalan untuk dikenakan di acara formal maupun non-formal. Selain cocok digunakan untuk ke kantor, kemeja ini juga pas bila digunakan untuk kuliah atau hangout bareng temen2 kamu. Padukan dengan rok untuk kamu yang gemar tampil feminim atau dengan denim jeans berwarna lembut untuk tampil minimalis! Yuk check out sekarang!
+- baby jeans material
+",All size,Navy Jeans M18874 R109S2,Buy Now,https://www.hijup.com/en/skirt/138185-mybamus-hilya-denim-skirt-rok-denim-panjang,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/750730/big_1.jpg,2024-12-26
+Benang Jarum,"IDR 795,000",Ashley Pleated Skirt - Nude dari Benang Jarum. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,100% Polyester,L/XL,Nude,Buy Now,https://www.hijup.com/en/skirt/140992-ashley-pleated-skirt-nude,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/766404/big_AshleyPleatedSkirt-Nude2.jpg,2024-12-26
+Mybamus,"IDR 118,888","Hello beauty! Kita launching produk set lagi nih, super gemes, super fresh dan super manis. Berbahan Polyester cocok dipakai untuk aktivitas sehari hari, cocok dipadu padankan dengan inner blouse gemes dengan vest unik kancing depan, apalagi paket lengkap dengan rok duyung/mermaid yang membuat kesan manis semakin dapet! Yuk check out sekarang!
 ","
-",All size,Khaki M19103 R51S6,https://www.hijup.com/id/shirt/140264-mybamus-kanaya-kemeja-ruffle,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/763359/big_WhatsApp_Image_2024-11-01_at_14.28.28__2_.jpeg
-,LEZAHRASIGNATURE,349000,Jihan Pants - Snow Black dari LEZAHRASIGNATURE. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Jeans Washed Non Strech,L /9100IN,Snow Black,https://www.hijup.com/id/pants/141004-jihan-pants-snow-black,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/766300/big_IMG_2423.JPG
-,LEZAHRASIGNATURE,369000,Atika Pants (Celana Jogger Denim) Fit BB 43-80 kg dari LEZAHRASIGNATURE. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Soft Denim Non Strech,All Size /1033HA,Hitam,https://www.hijup.com/id/pants/140388-atika-pants-celana-jogger-denim-fit-bb-43-80-kg,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/764118/big_IMG_8640.JPG
-Dusty Pink,RiaMiranda,850000,Coral Stitch Shirt Dusty Pink dari RiaMiranda. Koleksi Shirt muslim terbaru dengan material yang nyaman dikenakan.,Premium poly cotton,L/XL,Dusty Pink,https://www.hijup.com/id/shirt/110195-coral-stitch-shirt-dusty-pink,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/603028/big_NED_9530_Web.jpg
-Sangria,RiaMiranda,850000,Coral Stitch Shirt Sangria dari RiaMiranda. Koleksi Shirt muslim terbaru dengan material yang nyaman dikenakan.,Premium poly cotton,S/M,Sangria,https://www.hijup.com/id/shirt/110194-coral-stitch-shirt-sangria,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/603036/big_NED_9478_Web.jpg
-,AMALA,180000,Basic Pleats Skirt Lavender dari AMALA. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,Spandek,All Size,Lavender,https://www.hijup.com/id/skirt/128360-basic-pleats-skirt-lavender,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/694414/big_315384.jpg
-,AMALA,180000,Basic Pleats Skirt Army dari AMALA. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,Spandek,All Size,Army,https://www.hijup.com/id/skirt/126480-basic-pleats-skirt-army,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/687473/big_310649.jpg
-,LEZAHRASIGNATURE,369000,Aurel Skirt (Rok Basic Katun) Hitam dari LEZAHRASIGNATURE. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,Katun,All Size/19408VAL-PJG104,Hitam,https://www.hijup.com/id/skirt/141062-aurel-skirt-rok-basic-katun-hitam,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/766947/big_HJP_BLK1.jpg
-,AMALA,180000,Basic Pleats Skirt Maroon dari AMALA. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,Spandek,All Size,Maroon,https://www.hijup.com/id/skirt/128362-basic-pleats-skirt-maroon,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/694410/big_315386.jpg
-,LEZAHRASIGNATURE,369000,Aurel Skirt (Rok Basic Katun) Putih dari LEZAHRASIGNATURE. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,Katun,All Size/19408VAL-PJG104,White,https://www.hijup.com/id/skirt/141065-aurel-skirt-rok-basic-katun-putih,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/766940/big_HJP_WHT.jpg
-,LEZAHRASIGNATURE,369000,Aurel Skirt (Rok Basic Katun) Coklat Muda dari LEZAHRASIGNATURE. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,Katun,All Size/19408VAL-PJG104,Light Brown,https://www.hijup.com/id/skirt/141064-aurel-skirt-rok-basic-katun-coklat-muda,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/766944/big_HJP_BRW1.jpg
-,Benang Jarum,795000,Ashley Pleated Skirt - Nude dari Benang Jarum. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,100% Polyester,L/XL,Nude,https://www.hijup.com/id/skirt/140992-ashley-pleated-skirt-nude,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/766404/big_AshleyPleatedSkirt-Nude2.jpg
-,Benang Jarum,795000,Zoey Texture Shirt - Navy dari Benang Jarum. Koleksi Shirt muslim terbaru dengan material yang nyaman dikenakan.,100% Cotton,M,Navy,https://www.hijup.com/id/shirt/140991-zoey-texture-shirt-navy,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/766556/big_HMS04019.jpg
-,Benang Jarum,595000,High Waist Ankle Pants - Chai Tea dari Benang Jarum. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,"50% Cotton, 47% Nylon, 3% Spandex",S,Chai Tea,https://www.hijup.com/id/pants/140994-high-waist-ankle-pants-chai-tea,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/766522/big_HighWaistAnklePants-ChaiTea_2.jpg
-,Benang Jarum,795000,Kiara Shirt - Black dari Benang Jarum. Koleksi Shirt muslim terbaru dengan material yang nyaman dikenakan.,100% Polyester,S,Black,https://www.hijup.com/id/shirt/140993-kiara-shirt-black,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/766532/big_KiaraShirt-Black.jpg
-,Mybamus,180000,"Hello beauty! Kemeja dengan perpaduan bahan lady crush dan katun square ini bisa memberikan kesan tampilan yang super modis, unik, sekaligus menggemaskan. Dengan detail kerah kotak2 dan aksen tali bikin tampilanmu semakin eye catching! Padu padankan dengan celana jeans untuk kamu yang ingin tampil simple atau padukan dengan rok untuk tampilan yang feminim. Yuk check out sekarang!
+- Polyester knit material
+",All size,Merah Maroon M18926 R39S3,Buy Now,https://www.hijup.com/en/matching-sets/138186-mybamus-tiara-one-set-vest-skirt,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/751981/big_1.jpg,2024-12-26
+Benang Jarum,"IDR 795,000",Ashley Pleated Skirt - Black dari Benang Jarum. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,100% Polyester,L/XL,Black,Buy Now,https://www.hijup.com/en/skirt/140988-ashley-pleated-skirt-black,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/766389/big_AshleyPleatedSkirt-Black_1.jpg,2024-12-26
+HIJUP BASIC,"IDR 113,400",High Waist Knit Pants dari HIJUP BASIC. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Knit,All Size,Jade Green,Buy Now,https://www.hijup.com/en/pants/110602-high-waist-knit-pants,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/611599/big_v1-586-110602-186317-25085-46-272641.jpg,2024-12-26
+,"IDR 475,000",,,,,Sold Out,https://www.hijup.com/en/products/new-arrival?product_search%5Bpage%5D=5,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/766258/smaller_BUTTONSCARVES_SWITZERLAND_SERIES_IN_GENTIAN_3.jpg,2024-12-26
+HIJUP INFREENITY,"IDR 95,200",Lengkapi berbagai tampilan dengan koleksi Legging dari HIJUP INFREENITY. Legging dengan bahan stretchable yang nyaman untuk menemani setiap aktivitas.,- Bahan TENCEL™ super ringan dan elastis.,S,Beige,Buy Now,https://www.hijup.com/en/pants/56755-legging,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/326166/big_6K4A7562.jpg,2024-12-26
+AMALA,"IDR 54,000",Basic Pleats Cullote Mauve dari AMALA. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Spandek,All Size,Mauve,Buy Now,https://www.hijup.com/en/pants/128371-basic-pleats-cullote-mauve,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/694384/big_315395.jpg,2024-12-26
+,Rp 475.000,,,,,Sold Out,https://www.hijup.com/id/products/new-arrival?product_search%5Bpage%5D=7,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/745371/smaller_BUTTONSCARVES_THE_CROWN_SERIES_SQUARE_IN_SUN_3.JPG,2024-12-26
+,"IDR 120,000",,,,,Sold Out,https://www.hijup.com/en/products/new-arrival?product_search%5Bpage%5D=3,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/761353/smaller_WhatsApp_Image_2024-10-08_at_14.43.17__1_.jpeg,2024-12-26
+,Rp 795.000,,,,,Sold Out,https://www.hijup.com/id/products/new-arrival?product_search%5Bpage%5D=6,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/766532/smaller_KiaraShirt-Black.jpg,2024-12-26
+AMALA,"IDR 46,800",Basic Pleats Cullote Army dari AMALA. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Spandek,All Size,Army,Buy Now,https://www.hijup.com/en/pants/126483-basic-pleats-cullote-army,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/687457/big_310652.jpg,2024-12-26
+Mybamus,Rp 118.888,"Hello beauty! Kita launching produk set lagi nih, super gemes, super fresh dan super manis. Berbahan Polyester cocok dipakai untuk aktivitas sehari hari, cocok dipadu padankan dengan inner blouse gemes dengan vest unik kancing depan, apalagi paket lengkap dengan rok duyung/mermaid yang membuat kesan manis semakin dapet! Yuk check out sekarang!
 ","
-- lady crush
-",All size,Brown M19074 R110S4,https://www.hijup.com/id/shirt/138026-mybamus-x-itsazalya-azza-square-collar-tops,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/762468/big_WhatsApp_Image_2024-10-21_at_15.20.03__1_.jpeg
-,Mybamus,180000,"Hello beauty! Bosan dengan kemeja berpotongan klasik? Coba pilih kemeja dengan kombinasi motif stripe yang satu ini! Desainnya unik dan kekinian, sangat cocok untuk kamu yang suka tampil feminim. Detail lengannya balon dengan kancing, memudakan pemakaian. Padu padankan dengan jeans atau rok favorit kamu! Untuk kerja nyaman, untuk hangout juga tetep kece! Yuk check out sekarang!
+- Polyester knit material
+",All size,Merah Maroon M18926 R39S3,Belanja Sekarang,https://www.hijup.com/id/matching-sets/138186-mybamus-tiara-one-set-vest-skirt,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/751981/big_1.jpg,2024-12-26
+HIJUP BASIC,"IDR 43,610",Basic Legging Wudhu dari HIJUP BASIC. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Rayon spandex,All Size,Grey,Buy Now,https://www.hijup.com/en/pants/84797-basic-legging-wudhu,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/463922/big_210511.jpg,2024-12-26
+AMALA,"IDR 54,000",Basic Pleats Cullote Hazel dari AMALA. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Spandek,All Size,Hazel,Buy Now,https://www.hijup.com/en/pants/132304-basic-pleats-cullote-hazel,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/721864/big_v1-734-132304-218079-26436-46-325780.jpg,2024-12-26
+Mybamus,Rp 88.000,"Hello beauty! Siapa nih yang menanti-nanti denim series dari Mybamus? Kali ini yang spesial ada rok model duyung/mermaid yang super comfy dan eye catching! Rok yang satu ini bisa jadi opsi buat kamu yang ingin tampil stylish secara instan untuk outfit ngampus maupun hangout cantik bareng teman. Pilihan warnanya juga cantik dan menarik! Padu padankan dengan blouse atau kemeja favoritmu untuk look yang berbeda. Yuk check out sekarang!
 ","
-- toyobo mix katun material
-",All size,Broken White M18860 R29S1,https://www.hijup.com/id/shirt/138025-mybamus-x-itsazalya-liya-mix-stripe-shirt,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/750521/big_1.jpg
-Neutral Grey,HIJUP BASIC,219000,Pocket Basic Shirt dari HIJUP BASIC. Koleksi Shirt muslim terbaru dengan material yang nyaman dikenakan.,Rayon twill,S/M,Linen,https://www.hijup.com/id/shirt/84694-pocket-basic-shirt,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/459018/big_210292.jpg
-,AMALA,180000,Basic Pleats Cullote Mauve dari AMALA. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Spandek,All Size,Mauve,https://www.hijup.com/id/pants/128371-basic-pleats-cullote-mauve,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/694384/big_315395.jpg
-,Mybamus,170000,"Hello beauty! Buat kamu pencinta kemeja, yuk merapat! Kita punya kemeja dengan look yang unik dan kekinian. Dengan kombinasi lengan motif kotak/polka, bikin penampilan kamu jadi lebih playfull dan eye catching! Sangat cocok untuk kamu yang ingin tampil beda! Kamu bisa menggunakan ini untuk outfit kampus kamu maupun ngopi cantik bareng temen. Yuk check out sekarang!
+- baby jeans material
+",All size,Navy Jeans M18874 R109S2,Belanja Sekarang,https://www.hijup.com/id/skirt/138185-mybamus-hilya-denim-skirt-rok-denim-panjang,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/750730/big_1.jpg,2024-12-26
+,"IDR 239,000",,,,,Sold Out,https://www.hijup.com/en/categories/pants?product_search%5Bpage%5D=3,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/700149/smaller_HJP_TRC.jpg,2024-12-26
+,"IDR 299,900",,,,,Sold Out,https://www.hijup.com/en/categories/pants?product_search%5Bpage%5D=10,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/505282/smaller_WhatsApp_Image_2022-03-24_at_15.47.27__13_.jpeg,2024-12-26
+Meccanism,Rp 269.900,"Celana  panjang model high waist dengan pinggang karet
+Terdapat saku pada bagian kanan dan kiri celana serta belahan dibagian bawah",Kaos Texture (lebih tebal),,HITAM,Belanja Sekarang,https://www.hijup.com/id/pants/93962-meccanism-estelle-pants,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/505282/big_WhatsApp_Image_2022-03-24_at_15.47.27__13_.jpeg,2024-12-26
+,"IDR 289,950",,,,,Sold Out,https://www.hijup.com/en/categories/pants?product_search%5Bpage%5D=2,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/765907/smaller_DSC09970.jpg,2024-12-26
+Mybamus,Rp 75.000,"Hello beauty! Kita ada yang baru nih! Cutbray pants yang memiliki tampilan casual dengan bahan yang lembut dan stretch jadi sangat nyaman untuk keseharian kamu. Padu padankan dengan blouse/tunik untuk menunjang ootd kamu semakin modis dan fashionable! Yuk check out sekarang! 
 ","
-- polo linen mix katun/lacost material	
-",All size,Light Matcha M19227 R36S1,https://www.hijup.com/id/shirt/138242-mybamus-alicia-mix-shirt-kemeja-wanita-kekinian,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/766960/big_16_DESEMBER_2024_MYB_FG_RIDWAN__STUDIO_1_-51153.jpg
-Linen,HIJUP BASIC,199000,Regular Fit Basic Shirt dari HIJUP BASIC. Koleksi Shirt muslim terbaru dengan material yang nyaman dikenakan.,Rayon twill,L/XL,Linen,https://www.hijup.com/id/shirt/84692-regular-fit-basic-shirt,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/459054/big_210282.jpg
-,AMALA,180000,Basic Pleats Cullote Hazel dari AMALA. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Spandek,All Size,Hazel,https://www.hijup.com/id/pants/132304-basic-pleats-cullote-hazel,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/721864/big_v1-734-132304-218079-26436-46-325780.jpg
-,AMALA,180000,Basic Pleats Cullote Army dari AMALA. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Spandek,All Size,Army,https://www.hijup.com/id/pants/126483-basic-pleats-cullote-army,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/687457/big_310652.jpg
-,Siselyo,151000,"Hello beauty! Big size juga pengen pake jumpsuit? Buat kamu yang suka dengan set jumpsuit simple tapi tetap cantik dan eye catching cocok banget buat pake gael Jumpsuit Overall ini! jumpsuit ini memiliki detail kancing bukaan depan yang cocok juga dipakai para busui yang tetap ingin tampil gaya dan cantik! Bahan nya nyaman, cocok banget dipakai disemua aktifitas kamu! Dan yg paling penting ga bikin kamu kelihatan makin berisi karena di lengkapi tali pinggang yang bisa menyesuaikan bentuk pinggang kamu. Pikir apa lagi?? Yuk cek out sekarang!
-","
-Detail produk yang didapatkan:
-",All Size,Olive,https://www.hijup.com/id/jumpsuit/111021-siselyo-x-puwputt-gael-jumpsuit-overall-olive-m17341-r87s2,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/608204/big_IMG_6271--min.JPG
-Khaki,Siselyo,113000,"Bukan cuma tampilan jadi kece, overall celana ini juga nyaman untuk outfitmu sehari-hari loh. Pemakaiannya simpel tapi tetap bikin tampilan lebih kekinian. Kalian juga bisa menyesuaikan untuk padupadanannya dengan style kalian masing-masing, ya!
-","
-",All Size,Khaki,https://www.hijup.com/id/jumpsuit/85819-mika-rope-overall-khaki-m16462-r65s2,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/718997/big_DSCF9171.jpg
-Jade Green,HIJUP BASIC,189000,High Waist Knit Pants dari HIJUP BASIC. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Knit,All Size,Jade Green,https://www.hijup.com/id/pants/110602-high-waist-knit-pants,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/611599/big_v1-586-110602-186317-25085-46-272641.jpg
-,Siselyo,113000,"Bukan cuma tampilan jadi kece, overall celana ini juga nyaman untuk outfitmu sehari-hari loh. Pemakaiannya simpel tapi tetap bikin tampilan lebih kekinian. Kalian juga bisa menyesuaikan untuk padupadanannya dengan style kalian masing-masing, ya!
-","
-Detail produk yang didapatkan:
-",All Size,Gray,https://www.hijup.com/id/jumpsuit/98681-mika-rope-overall-gray-m16806-r111s5,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/718993/big_DSCF9153.jpg
-Navy,HIJUP BASIC,89000,Basic Legging Wudhu dari HIJUP BASIC. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Rayon spandex,All Size,Grey,https://www.hijup.com/id/pants/84797-basic-legging-wudhu,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/463922/big_210511.jpg
-Beige,HIJUP INFREENITY,119000,Lengkapi berbagai tampilan dengan koleksi Legging dari HIJUP INFREENITY. Legging dengan bahan stretchable yang nyaman untuk menemani setiap aktivitas.,- Bahan TENCEL™ super ringan dan elastis.,S,Beige,https://www.hijup.com/id/pants/56755-legging,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/326166/big_6K4A7562.jpg
-Black,LEZAHRASIGNATURE,269000,Kulot Office Bianca Black dari LEZAHRASIGNATURE. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,- Celana kulot lebar,,Black,https://www.hijup.com/id/pants/101189-kulot-office-bianca-black,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/545855/big_HJP_BLK.jpg
-Sage,Benang Jarum,495000,Alma Pants - Sage dari Benang Jarum. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,"100% Polyester
-",,Sage,https://www.hijup.com/id/pants/104125-alma-pants-sage,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/569509/big_257475.jpg
-,LEZAHRASIGNATURE,269000,Kulot Office Bianca Brown dari LEZAHRASIGNATURE. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Poliester Spandex,,Brown,https://www.hijup.com/id/pants/101219-kulot-office-bianca-brown,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/545892/big_HJP_BRW.jpg
-,Exit Signature,579900,"- Pants dengan casual look 
-- Warna Brown 
-- High rise 
-- Material tidak transparan 
-- Motif polos 
-- Regular Fit 
-- Bahan Kain Katun Poli Spandek yang ringan dan nyaman dipakai Lihat detail ukuran sebelum membeli 
-- Warna pada gambar dapat sedikit berbeda dengan warna asli produk akibat pencahayaan saat proses photoshoot.
-
-Size Spec 
-S : (Lingkar pinggang 68cm x Panjang celana 97cm) 
-M : (Lingkar pinggang 72cm x Panjang celana 98cm) 
-L : (Lingkar pinggang 76cm x Panjang celana 99cm) 
-XL : (Lingkar pinggang 80cmxPanjang celana 100cm) 
-XXL : (Lingkar pinggang 84cm xPanjang celana 101cm)",Kain Katun Poli Spandek,XXL,Khaky,https://www.hijup.com/id/pants/140851-signature-milva-pants-701-52704-80,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/765907/big_DSC09970.jpg
-,Exit Signature,579900,"- Celana panjang kulot bernuansa putih untuk effortless casual style 
+- Hoka knit material
+",All size,Oat M19067 R72S1,Belanja Sekarang,https://www.hijup.com/id/pants/140150-mybamus-fuji-cutbray-pants-knit,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/762382/big_WhatsApp_Image_2024-10-21_at_15.46.36__2_.jpeg,2024-12-26
+,Rp 449.000,,,,,Sold Out,https://www.hijup.com/id/products/new-arrival?product_search%5Bpage%5D=4,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/765926/smaller_IMG_6396.JPG,2024-12-26
+Benang Jarum,Rp 725.000,Orion Pleated Pants - Black dari Benang Jarum. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,100% Polyester,S,Black,Belanja Sekarang,https://www.hijup.com/id/pants/139155-orion-pleated-pants-black,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/759892/big_Orion_Pleated_Pants_-_Black__1_.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 239.000,Kulot Kargo Jennie dari LEZAHRASIGNATURE. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Katun Twill,L /9025.JO,Cappucino,Belanja Sekarang,https://www.hijup.com/id/pants/129611-kulot-kargo-jennie,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/700149/big_HJP_TRC.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 189.450,Longpant Office Baggy Azkia dari LEZAHRASIGNATURE. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Poliester Spandex,M /066.BYL,Brown,Belanja Sekarang,https://www.hijup.com/id/pants/104156-azkia-pant-celana-panjang-kantor-basic-bigsize-fit-to-bb-85-kg,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/563859/big_HJP_BRW.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 269.000,Kulot Office Bianca Black dari LEZAHRASIGNATURE. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,- Celana kulot lebar,,Black,Belanja Sekarang,https://www.hijup.com/id/pants/101189-kulot-office-bianca-black,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/545855/big_HJP_BLK.jpg,2024-12-26
+Meccanism,Rp 299.900,"Celana panjang high waist dengan menggunakan resleting
+Terdapat tali dan saku pad abagian kanan kiri celana",Ottoman Stretch,,DEEP NAVY,Belanja Sekarang,https://www.hijup.com/id/pants/94226-meccanism-fujiko-pants,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/507267/big_WhatsApp_Image_2022-03-24_at_15.41.55__12_.jpeg,2024-12-26
+Benang Jarum,Rp 675.000,Flory Pants - Cream dari Benang Jarum. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,"58% Rayon, 42% Polyester",M,Cream,Belanja Sekarang,https://www.hijup.com/id/pants/139149-flory-pants-cream,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/759844/big_Flory_Pants_-_Cream__2_.jpg,2024-12-26
+Benang Jarum,Rp 575.000,Luminosa Pants - White dari Benang Jarum. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Polyester,M,White,Belanja Sekarang,https://www.hijup.com/id/pants/139135-luminosa-pants-white,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/759737/big_Luminosa_Pants___White.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 269.000,Kulot Office Bianca Brown dari LEZAHRASIGNATURE. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Poliester Spandex,,Brown,Belanja Sekarang,https://www.hijup.com/id/pants/101219-kulot-office-bianca-brown,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/545892/big_HJP_BRW.jpg,2024-12-26
+,Rp 113.400,,,,,Sold Out,https://www.hijup.com/id/categories/celana,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/611599/smaller_v1-586-110602-186317-25085-46-272641.jpg,2024-12-26
+Exit Signature,Rp 289.950,"- Celana panjang kulot bernuansa putih untuk effortless casual style 
 - Warna Cream muda 
 - High rise 
 - Regular fit 
@@ -89,25 +79,12 @@ Ukuran Produk Panjang Celana x Lingkar Pinggang x Lingkar Panggul:
 - M: (Panjang Celana 98cm x Lingkar Pinggang 72cm x Lingkar Panggul 104cm) 
 - L: (Panjang Celana 99cm x Lingkar Pinggang 76cm x Lingkar Panggul 108cm) 
 - XL: (Panjang Celana 100cm x Lingkar Pinggang 80cm x Lingkar Panggul 112cm) 
-- XXL: (Panjang Celana 101cm x Lingkar Pinggang 84cm x Lingkar Panggul 116cm)",Kain Cotton 20's,XXL,Beige,https://www.hijup.com/id/pants/140814-signature-pure-cullote-pants-702-52114-15,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/765802/big_DSC00368.jpg
-Snow Black,LEZAHRASIGNATURE,269000,Kulot Jeans Highwaist dari LEZAHRASIGNATURE. ,Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,L /9100.IN,Black,https://www.hijup.com/id/pants/115885-highwaist-jeans-celana-kulot-denim,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/646728/big_hjp_blk5.jpg
-Yellow Stripe,Vio Murdina,135000,Kulot Akita dari Vio Murdina. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Linen,,Yellow Stripe,https://www.hijup.com/id/pants/99835-kulot-akita,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/572266/big_Akita_yellow.jpg
-Super Black,LEZAHRASIGNATURE,369000,Buat gaya harian jadi lebih stylish dengan Kulot Denim Ashley Celana  yang memiliki siluet wide-leg dan aplikasi karet pada bagian pinggang dilengkapi saku. Tersedia dalam tiga pilihan warna menarik.,- Kulot potongan lebar.,All Size /6007.IN2,Super Black,https://www.hijup.com/id/pants/76738-ashley-kulot-celana-denim-bawah-lebar,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/662425/big_KULOT_DENIM_ASHLEY_BLK.jpg
-,Exit Signature,579900,"- Pants dengan casual look 
-- Warna Brown 
-- High rise 
-- Material tidak transparan 
-- Motif polos 
-- Regular Fit 
-- Bahan Kain Katun Poli Spandek yang ringan dan nyaman dipakai Lihat detail ukuran sebelum membeli - Warna pada gambar dapat sedikit berbeda dengan warna asli produk akibat pencahayaan saat proses photoshoot.
-
-Size Spec 
-S : (Lingkar pinggang 68cm x Panjang celana 97cm) 
-M : (Lingkar pinggang 72cm x Panjang celana 98cm) 
-L : (Lingkar pinggang 76cm x Panjang celana 99cm) 
-XL : (Lingkar pinggang 80cmxPanjang celana 100cm) 
-XXL : (Lingkar pinggang 84cm xPanjang celana 101cm)",Kain Katun Poli Spandek,XXL,Khaky,https://www.hijup.com/id/pants/140819-signature-milva-pants-701-52704-80,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/765830/big_DSC09970.jpg
-,Exit Signature,579900,"- Pants dengan casual look 
+- XXL: (Panjang Celana 101cm x Lingkar Pinggang 84cm x Lingkar Panggul 116cm)",Kain Cotton 20's,XXL,Beige,Belanja Sekarang,https://www.hijup.com/id/pants/140814-signature-pure-cullote-pants-702-52114-15,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/765802/big_DSC00368.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 239.000,Kulot Jeans Highwaist dari LEZAHRASIGNATURE. ,Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,L /9100.IN,Black,Belanja Sekarang,https://www.hijup.com/id/pants/115885-highwaist-jeans-celana-kulot-denim,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/646728/big_hjp_blk5.jpg,2024-12-26
+,"IDR 46,800",,,,,Sold Out,https://www.hijup.com/en/categories/skirt,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/694410/smaller_315386.jpg,2024-12-26
+Benang Jarum,Rp 575.000,Luminosa Pants - Maroon dari Benang Jarum. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Polyester,S,Maroon,Belanja Sekarang,https://www.hijup.com/id/pants/139136-luminosa-pants-maroon,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/759723/big_Luminosa_Pants___Maroon__1_.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 189.450,Buat gaya harian jadi lebih stylish dengan Kulot Denim Ashley Celana  yang memiliki siluet wide-leg dan aplikasi karet pada bagian pinggang dilengkapi saku. Tersedia dalam tiga pilihan warna menarik.,- Kulot potongan lebar.,All Size /6007.IN2,Super Black,Belanja Sekarang,https://www.hijup.com/id/pants/76738-ashley-kulot-celana-denim-bawah-lebar,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/662425/big_KULOT_DENIM_ASHLEY_BLK.jpg,2024-12-26
+Exit Signature,Rp 289.950,"- Pants dengan casual look 
 - Warna Cream muda 
 - High rise 
 - Motif garis 
@@ -122,43 +99,477 @@ S : (Lingkar pinggang 68cm x Panjang celana 97cm)
 M : (Lingkar pinggang 72cm x Panjang celana 98cm) 
 L : (Lingkar pinggang 76cm x Panjang celana 99cm) 
 XL : (Lingkar pinggang 80cmxPanjang celana 100cm) 
-XXL : (Lingkar pinggang 84cm xPanjang celana 101cm)",Kain Rami Yarn Dyed Dobby,XXL,Beige,https://www.hijup.com/id/pants/140836-signature-nera-pants-701-52689-15,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/765852/big_DSC00149.jpg
-,Meccanism,299900,"Celana panjang high waist dengan menggunakan resleting
-Terdapat tali dan saku pad abagian kanan kiri celana",Ottoman Stretch,,DEEP NAVY,https://www.hijup.com/id/pants/94226-meccanism-fujiko-pants,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/507267/big_WhatsApp_Image_2022-03-24_at_15.41.55__12_.jpeg
-,Nada Puspita,449000,Raudhah Pants - White dari Nada Puspita. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Soft Crepe,M,Multicolor,https://www.hijup.com/id/pants/139265-raudhah-pants-white,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/760300/big_Raudhah_Clothing_12_copy.jpg
-,Benang Jarum,575000,Luminosa Pants - Maroon dari Benang Jarum. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Polyester,S,Maroon,https://www.hijup.com/id/pants/139136-luminosa-pants-maroon,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/759723/big_Luminosa_Pants___Maroon__1_.jpg
-,Benang Jarum,725000,Orion Pleated Pants - Black dari Benang Jarum. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,100% Polyester,S,Black,https://www.hijup.com/id/pants/139155-orion-pleated-pants-black,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/759892/big_Orion_Pleated_Pants_-_Black__1_.jpg
-,LEZAHRASIGNATURE,239000,Kulot Katun Basic - Putih dari LEZAHRASIGNATURE. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Celana panjang kulot putih,M /142.BYL,Putih,https://www.hijup.com/id/pants/136839-kulot-katun-basic-celana-panjang-muslim-wanita-putih,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/742479/big_HJP_WHT3.jpg
-,Meccanism,269900,"Celana  panjang model high waist dengan pinggang karet
-Terdapat saku pada bagian kanan dan kiri celana serta belahan dibagian bawah",Kaos Texture (lebih tebal),,HITAM,https://www.hijup.com/id/pants/93962-meccanism-estelle-pants,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/505282/big_WhatsApp_Image_2022-03-24_at_15.47.27__13_.jpeg
-,Benang Jarum,675000,Flory Pants - Cream dari Benang Jarum. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,"58% Rayon, 42% Polyester",M,Cream,https://www.hijup.com/id/pants/139149-flory-pants-cream,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/759844/big_Flory_Pants_-_Cream__2_.jpg
-,LEZAHRASIGNATURE,299000,Kulot Kargo Jennie dari LEZAHRASIGNATURE. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Katun Twill,L /9025.JO,Cappucino,https://www.hijup.com/id/pants/129611-kulot-kargo-jennie,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/700149/big_HJP_TRC.jpg
-,Siselyo,131000,"Bestie! Kita punya overall dress yang sangat cantik dan menarik. Memiliki bahan yang sangat nyaman saat dipakai dan memiliki variasi dibagian depannya! Bisa juga kalian padukan dengan kemeja yang kalian punya loh! Jangan sampai kehabisan yah!
+XXL : (Lingkar pinggang 84cm xPanjang celana 101cm)",Kain Rami Yarn Dyed Dobby,XXL,Beige,Belanja Sekarang,https://www.hijup.com/id/pants/140836-signature-nera-pants-701-52689-15,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/765852/big_DSC00149.jpg,2024-12-26
+Exit Signature,Rp 289.950,"- Pants dengan casual look 
+- Warna Brown 
+- High rise 
+- Material tidak transparan 
+- Motif polos 
+- Regular Fit 
+- Bahan Kain Katun Poli Spandek yang ringan dan nyaman dipakai Lihat detail ukuran sebelum membeli - Warna pada gambar dapat sedikit berbeda dengan warna asli produk akibat pencahayaan saat proses photoshoot.
+
+Size Spec 
+S : (Lingkar pinggang 68cm x Panjang celana 97cm) 
+M : (Lingkar pinggang 72cm x Panjang celana 98cm) 
+L : (Lingkar pinggang 76cm x Panjang celana 99cm) 
+XL : (Lingkar pinggang 80cmxPanjang celana 100cm) 
+XXL : (Lingkar pinggang 84cm xPanjang celana 101cm)",Kain Katun Poli Spandek,XXL,Khaky,Belanja Sekarang,https://www.hijup.com/id/pants/140819-signature-milva-pants-701-52704-80,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/765830/big_DSC09970.jpg,2024-12-26
+,Rp 289.950,,,,,Sold Out,https://www.hijup.com/id/categories/celana?product_search%5Bpage%5D=2,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/765907/smaller_DSC09970.jpg,2024-12-26
+,Rp 475.000,,,,,Sold Out,https://www.hijup.com/id/products/new-arrival?product_search%5Bpage%5D=5,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/766258/smaller_BUTTONSCARVES_SWITZERLAND_SERIES_IN_GENTIAN_3.jpg,2024-12-26
+,Rp 316.800,,,,,Sold Out,https://www.hijup.com/id/categories/celana?product_search%5Bpage%5D=8,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/547679/smaller_ABT.jpg,2024-12-26
+Exit Signature,Rp 289.950,"- Pants dengan casual look 
+- Warna Brown 
+- High rise 
+- Material tidak transparan 
+- Motif polos 
+- Regular Fit 
+- Bahan Kain Katun Poli Spandek yang ringan dan nyaman dipakai Lihat detail ukuran sebelum membeli 
+- Warna pada gambar dapat sedikit berbeda dengan warna asli produk akibat pencahayaan saat proses photoshoot.
+
+Size Spec 
+S : (Lingkar pinggang 68cm x Panjang celana 97cm) 
+M : (Lingkar pinggang 72cm x Panjang celana 98cm) 
+L : (Lingkar pinggang 76cm x Panjang celana 99cm) 
+XL : (Lingkar pinggang 80cmxPanjang celana 100cm) 
+XXL : (Lingkar pinggang 84cm xPanjang celana 101cm)",Kain Katun Poli Spandek,XXL,Khaky,Belanja Sekarang,https://www.hijup.com/id/pants/140851-signature-milva-pants-701-52704-80,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/765907/big_DSC09970.jpg,2024-12-26
+AMALA,Rp 46.800,Basic Pleats Cullote Army dari AMALA. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Spandek,All Size,Army,Belanja Sekarang,https://www.hijup.com/id/pants/126483-basic-pleats-cullote-army,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/687457/big_310652.jpg,2024-12-26
+,Rp 239.000,,,,,Sold Out,https://www.hijup.com/id/categories/celana?product_search%5Bpage%5D=3,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/700149/smaller_HJP_TRC.jpg,2024-12-26
+,Rp 217.500,,,,,Sold Out,https://www.hijup.com/id/categories/celana?product_search%5Bpage%5D=4,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/749623/smaller_26806-338803-5.jpg,2024-12-26
+AMALA,Rp 54.000,Basic Pleats Cullote Hazel dari AMALA. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Spandek,All Size,Hazel,Belanja Sekarang,https://www.hijup.com/id/pants/132304-basic-pleats-cullote-hazel,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/721864/big_v1-734-132304-218079-26436-46-325780.jpg,2024-12-26
+HIJUP BASIC,Rp 43.610,Basic Legging Wudhu dari HIJUP BASIC. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Rayon spandex,All Size,Grey,Belanja Sekarang,https://www.hijup.com/id/pants/84797-basic-legging-wudhu,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/463922/big_210511.jpg,2024-12-26
+Benang Jarum,Rp 495.000,Alma Pants - Sage dari Benang Jarum. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,"100% Polyester
+",,Sage,Belanja Sekarang,https://www.hijup.com/id/pants/104125-alma-pants-sage,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/569509/big_257475.jpg,2024-12-26
+,Rp 299.900,,,,,Sold Out,https://www.hijup.com/id/categories/celana?product_search%5Bpage%5D=10,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/505282/smaller_WhatsApp_Image_2022-03-24_at_15.47.27__13_.jpeg,2024-12-26
+LEZAHRASIGNATURE,Rp 369.000,Aurel Skirt (Rok Basic Katun) Coklat Muda dari LEZAHRASIGNATURE. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,Katun,All Size/19408VAL-PJG104,Light Brown,Belanja Sekarang,https://www.hijup.com/id/skirt/141064-aurel-skirt-rok-basic-katun-coklat-muda,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/766944/big_HJP_BRW1.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 369.000,Aurel Skirt (Rok Basic Katun) Hitam dari LEZAHRASIGNATURE. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,Katun,All Size/19408VAL-PJG104,Hitam,Belanja Sekarang,https://www.hijup.com/id/skirt/141062-aurel-skirt-rok-basic-katun-hitam,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/766947/big_HJP_BLK1.jpg,2024-12-26
+,Rp 299.000,,,,,Sold Out,https://www.hijup.com/id/categories/celana?product_search%5Bpage%5D=9,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/551899/smaller_HJP_LGRY.jpg,2024-12-26
+AMALA,Rp 54.000,Basic Pleats Cullote Mauve dari AMALA. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Spandek,All Size,Mauve,Belanja Sekarang,https://www.hijup.com/id/pants/128371-basic-pleats-cullote-mauve,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/694384/big_315395.jpg,2024-12-26
+,Rp 725.000,,,,,Sold Out,https://www.hijup.com/id/categories/rok?product_search%5Bpage%5D=8,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/603852/smaller_v1-824-109784-185118-25057-70-270494.jpg,2024-12-26
+Siselyo,Rp 85.000,"Hello Beauty! Kenalin cargo knit pants extra size alias jumbo yang memiliki tampilan casual dengan tekstur bahan melar, halus dan tidak nerawang jadi sangat nyaman untuk keseharian kamu. Cuttingannya loose ditambah detail saku yang fungsional. Cocok untuk dipadu padankan dengan segala macam style fashion kamu. Yuk check out sekarang!
+","
+- Hornet knit premium material",All Size,Oat,Belanja Sekarang,https://www.hijup.com/id/pants/132954-siselyo-jiya-cargo-knit-pants-oat-m18435-r95s1,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/731420/big_DSCF3896.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 369.000,Aurel Skirt (Rok Basic Katun) Putih dari LEZAHRASIGNATURE. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,Katun,All Size/19408VAL-PJG104,White,Belanja Sekarang,https://www.hijup.com/id/skirt/141065-aurel-skirt-rok-basic-katun-putih,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/766940/big_HJP_WHT.jpg,2024-12-26
+Kamiidea,Rp 529.000,"Straight-cut jeans made of poly cotton spandex material. Features belt loop, engraved button, front coin pocket, and back pocket.
+
+Jeans lurus berbahan poly cotton spandex. Dilengkapi loop untuk ikat pinggang, kancing yang diukir dengan logo, saku koin di depan, dan saku belakang.
+
+- 3 color options
+- Loose fit in straight-cut silhouette
+- Machine wash in regular cycle with non-bleach detergent
+- Wash in heat can cause damage to the fibers of the fabric
+- Iron with medium setting to prevent fabric from damage
+- Better to not tumble dry
+- Made with poly cotton spandex material
+
+- 3 pilihan warna
+- Ukuran lebar dengan siluet potongan lurus
+- Cuci dengan mesin dalam siklus reguler dengan detergen tanpa pemutih
+- Cuci dengan air panas dapat menyebabkan kerusakan pada serat kain
+- Setrika dengan pengaturan sedang untuk mencegah rusaknya serat
+- Lebih baik tidak di eringkan menggunakan mesin
+- Dibuat menggunakan bahan katun poly spandex","Berat (dalam gram, max. 6000, 3-4 item Atasan berkisar 1 kg):",,Medium Blue,Belanja Sekarang,https://www.hijup.com/id/pants/106061-kami-cielo-jeans-pants-plain-medium-bue,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/576086/big_KAMI_CIELO_JEANS_MEDIUM_BLUE_1.jpg,2024-12-26
+Siselyo,Rp 85.000,"Hello Beauty! Kenalin cargo knit pants extra size alias jumbo yang memiliki tampilan casual dengan tekstur bahan melar, halus dan tidak nerawang jadi sangat nyaman untuk keseharian kamu. Cuttingannya loose ditambah detail saku yang fungsional. Cocok untuk dipadu padankan dengan segala macam style fashion kamu. Yuk check out sekarang!
+","
+- Hornet knit premium material",All Size,Broken White,Belanja Sekarang,https://www.hijup.com/id/pants/132955-siselyo-jiya-cargo-knit-pants-bw-m18436-r95s3,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/731416/big_DSCF3868.jpg,2024-12-26
+,Rp 218.900,,,,,Sold Out,https://www.hijup.com/id/categories/rok?product_search%5Bpage%5D=3,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/630552/smaller_HJP_NVY.jpg,2024-12-26
+,Rp 113.400,,,,,Sold Out,https://www.hijup.com/id/categories/celana?product_search%5Bpage%5D=1,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/611599/smaller_v1-586-110602-186317-25085-46-272641.jpg,2024-12-26
+Alunicorn,Rp 189.000,"Kai Knit Pants 
+
+Kai Pants merupakan celana berbahan knit premium yang handmade sehingga lembut, stretchy, flowy dan nyaman. Memiliki pinggang full karet sehingga tidak perlu takut kekecilan. Cuttingannya dibuat wide leg sehingga memberi efek jenjang, cocok digunakan di acara santai maupun semi formal.
+
+
+Size Chart :
+
+A/B
+
+Panjang Celana               : 100/100
+
+Lingkar Pinggang            : 60/64
+
+Lingkar Pinggul                : 82/84
+
+Lingkar Paha                    : 52/54
+
+
+Warna : Teal (Hijau tosca), Deep Taupe, Charcoal, Brown Sugar, Jade Black, Simple Taupe, Pumpkin (orange), Deep Pink, Off White, Forest Green.
+
+
+Notes :
+
+Kemungkinan perbedaan sedikit warna antara barang yang difoto dan barang aslinya, dikarenakan faktor cahaya dan setting layar tampilan Anda, atau flash kamera. 
+
+
+Instruksi Perawatan :
+
+Jangan gunakan pemutih
+
+Jangan dicuci di mesin cuci
+
+Setrika dengan panas rendah","Berat (dalam gram, max. 6000, 3-4 item Atasan berkisar 1 kg):",B (L-XL),Off White,Belanja Sekarang,https://www.hijup.com/id/pants/126666-alunicorn-kai-pants-pants-wanita-knit-rajut-off-white,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/686268/big_FOTO_PRODUK_WEB_12.png,2024-12-26
+Alunicorn,Rp 165.000,"Bermaterial Bobble yang lembut dan stretch. Cuttingan celana Cutbray dengan desain spesial terdapat garis belahan di bagian tengah celana yang bisa membuat kakimu terlihat lebih jenjang. Terdapat karet pinggang di bagian belakang pastinya nyaman dan mudah digunakan. Roco Pants memiliki warna-warna yang cocok digunakan kemanapun bisa untuk kerja atau hangout.
+
+Materials
+
+Bobble","Berat (dalam gram, max. 6000, 3-4 item Atasan berkisar 1 kg):",B (L-XL),Tawny,Belanja Sekarang,https://www.hijup.com/id/pants/131449-alunicorn-roco-pants-tawny,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/712112/big_Artboard_41.png,2024-12-26
+,Rp 179.850,,,,,Sold Out,https://www.hijup.com/id/categories/celana?product_search%5Bpage%5D=5,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/499887/smaller_HJP_BEI_4.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 269.000,Kulot Jeans Baggy Mila dari LEZAHRASIGNATURE. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Denim Non Strech,,Black,Belanja Sekarang,https://www.hijup.com/id/pants/103172-kulot-jeans-baggy-mila,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/558405/big_HJP_BLK.jpg,2024-12-26
+Alunicorn,Rp 165.000,"Bermaterial Bobble yang lembut dan stretch. Cuttingan celana Cutbray dengan desain spesial terdapat garis belahan di bagian tengah celana yang bisa membuat kakimu terlihat lebih jenjang. Terdapat karet pinggang di bagian belakang pastinya nyaman dan mudah digunakan. Roco Pants memiliki warna-warna yang cocok digunakan kemanapun bisa untuk kerja atau hangout.
+
+Materials
+
+Bobble","Berat (dalam gram, max. 6000, 3-4 item Atasan berkisar 1 kg):",A (S-M),Pearl White,Belanja Sekarang,https://www.hijup.com/id/pants/131448-alunicorn-roco-pants-pearly-white,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/712108/big_broken_wihte_1.png,2024-12-26
+,Rp 175.000,,,,,Sold Out,https://www.hijup.com/id/categories/celana?product_search%5Bpage%5D=6,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/749599/smaller_26806-338805.jpg,2024-12-26
+Club Solitaire,Rp 217.500,PN 2500 Levion Pants dari Club Solitaire. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,raw denim,All Size,Navy,Belanja Sekarang,https://www.hijup.com/id/pants/137396-pn-2500-levion-pants,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/749623/big_26806-338803-5.jpg,2024-12-26
+Benang Jarum,Rp 575.000,Khanum Knit Pants - Cream dari Benang Jarum. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,"51% Viscose, 29% Polyester, 20% Nylon
+",,Cream,Belanja Sekarang,https://www.hijup.com/id/pants/123069-khanum-knit-pants-cream,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/674799/big_Khanum_Knit_Pants_-_Cream.jpg,2024-12-26
+Arsscarf,Rp 425.000,Zahra Gypsy Skirt - Navy dari Arsscarf. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,"Spun Poliester
+",,Navy,Belanja Sekarang,https://www.hijup.com/id/skirt/105577-zahra-gypsy-skirt-navy,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/573507/big_HIJUP_Zahra_gysy_skirt_navy3.jpg,2024-12-26
+Arsscarf,Rp 425.000,Florian Skirt - Blue dari Arsscarf. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,"Georgette Poliester
+",,Blue,Belanja Sekarang,https://www.hijup.com/id/skirt/105566-florian-skirt-blue,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/574256/big_HIJUP_Florian_skirt_Blue.jpg,2024-12-26
+,Rp 46.800,,,,,Sold Out,https://www.hijup.com/id/categories/rok?product_search%5Bpage%5D=1,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/694410/smaller_315386.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 199.850,Long Skirt Denim Aurora koleksi Le Zahra Signature.,- Rok.,All Size/811.HA2,Dark Blue,Belanja Sekarang,https://www.hijup.com/id/skirt/90040-long-skirt-denim-aurora-dark-blue,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/711635/big_Longskirt_Denim_Aurora_DB1.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 199.850,Long Skirt Denim Aurora koleksi Le Zahra Signature.,- Rok.,All Size/811.HA2,Snow Blue,Belanja Sekarang,https://www.hijup.com/id/skirt/90039-long-skirt-denim-aurora-snow-blue,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/485538/big_HJ_SBLU.jpg,2024-12-26
+Arsscarf,Rp 425.000,Zahra Gypsy Skirt - Purple dari Arsscarf. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,"Spun Poliester
+",,Purple,Belanja Sekarang,https://www.hijup.com/id/skirt/105578-zahra-gypsy-skirt-purple,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/573501/big_HIJUP_Zahra_gysy_skirt_purple4.jpg,2024-12-26
+,Rp 92.000,,,,,Sold Out,https://www.hijup.com/id/categories/rok?product_search%5Bpage%5D=4,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/618248/smaller_IMG_1523.jpg,2024-12-26
+,Rp 189.450,,,,,Sold Out,https://www.hijup.com/id/categories/rok?product_search%5Bpage%5D=2,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/682952/smaller_HJP_NVY3.jpg,2024-12-26
+,Rp 149.850,,,,,Sold Out,https://www.hijup.com/id/categories/celana?product_search%5Bpage%5D=7,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/547150/smaller_HJP_LGRY5.jpg,2024-12-26
+Alunicorn,Rp 165.000,"Zoe Pants
+
+Zoe Pants merupakan pants / celana  berbahan scuba handmade sehingga lembut, stretchy, flowly dan nyaman. Bagian pinggang full karet sehingga tidak perlu takut kekecilan. Design spesial terdapat garis belahan di bagian pinggir celana serta dibuat model wide-leg membuat penampilan terlihat lebih jenjang. Cocok dipakai di acara santai maupun acara semi-formal.
+
+Tersedia 6 Warna:
+
+1. Sand
+
+2. Broken White
+
+3. Fern
+
+4. Browny
+
+5. Black
+
+6. Tortilla
+
+Size Chart
+Size                       : A (S-M) / B (L-XL)
+Panjang Celana     : 100 cm / 102 cm
+Lingkar Pinggang : 64-90 cm / 70-96 cm
+Lingkar Pinggul    : 88 cm / 92 cm
+Lingkar Paha         : 55 cm / 58 cm
+
+Happy Shopping dear ^^","Berat (dalam gram, max. 6000, 3-4 item Atasan berkisar 1 kg):",B (L-XL),Fern,Belanja Sekarang,https://www.hijup.com/id/pants/131308-alunicorn-zoe-pants-fern-pants-wanita,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/710432/big_fern_1.png,2024-12-26
+LEZAHRASIGNATURE,Rp 199.850,Long Skirt Denim Aurora koleksi Le Zahra Signature.,- Rok.,All Size /811.HA,Black,Belanja Sekarang,https://www.hijup.com/id/skirt/89716-long-skirt-denim-aurora-black,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/618728/big_BLK_4.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 174.950,Long Skirt Plisket Ana koleksi Zahra Signature,- Rok panjang.,All Size /712.SA,Dark Grey,Belanja Sekarang,https://www.hijup.com/id/skirt/73560-ana-skirt-rok-panjang-plisket-a-line,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/686577/big_WhatsApp_Image_2023-06-19_at_10.21.38.jpeg,2024-12-26
+Morning Sunshine,Rp 250.000,Tampil simply chic dengan Morning Sunshine Polly Pants. Celana panjang dengan aplikasi ruffle dan siluet straight fit.,Katun,M,Navy,Belanja Sekarang,https://www.hijup.com/id/pants/50016-polly-pants,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/243265/big_v1-227-50016-92904-16187-46-124003-2.jpg,2024-12-26
+Club Solitaire,Rp 175.000,PN 2416 Pamela Pants dari Club Solitaire. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,polyester wool,All Size,Bw,Belanja Sekarang,https://www.hijup.com/id/pants/132937-pn-2416-pamela-pants,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/721660/big_327066.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 139.900,Longpant Basic Ara dari Zahra Signature. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,- Celana panjang,M /9934.BPC,Beige,Belanja Sekarang,https://www.hijup.com/id/pants/87747-longpant-basic-ara-beige,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/474575/big_BEIGE_3.jpg,2024-12-26
+,Rp 269.000,,,,,Sold Out,https://www.hijup.com/id/categories/rok?product_search%5Bpage%5D=6,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/692908/smaller_HJP_WHT.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 199.850,Long Skirt Denim Aurora koleksi Le Zahra Signature.,- Rok.,All Size/811.HA,Light Blue,Belanja Sekarang,https://www.hijup.com/id/skirt/89717-long-skirt-denim-aurora-light-blue,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/618711/big_HJP_LB.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 179.850,"Jenis tipe celana panjang yang dapat sangat kamu andalkan
+baik untuk digunakan untuk kegiatan sehari2, ngantor/meeting atau acara hangout.",- Celana panjang baggy,XXL /9115.JO,Coklat Abu,Belanja Sekarang,https://www.hijup.com/id/pants/92922-longpant-baggy-twill-tina-coklat-abu,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/499854/big_HJP_CKA3.jpg,2024-12-26
+Alunicorn,Rp 165.000,"Zoe Pants
+
+Zoe Pants merupakan pants / celana  berbahan scuba handmade sehingga lembut, stretchy, flowly dan nyaman. Bagian pinggang full karet sehingga tidak perlu takut kekecilan. Design spesial terdapat garis belahan di bagian pinggir celana serta dibuat model wide-leg membuat penampilan terlihat lebih jenjang. Cocok dipakai di acara santai maupun acara semi-formal.
+
+Tersedia 6 Warna:
+
+1. Sand
+
+2. Broken White
+
+3. Fern
+
+4. Browny
+
+5. Black
+
+6. Tortilla
+
+Size Chart
+Size                       : A (S-M) / B (L-XL)
+Panjang Celana     : 100 cm / 102 cm
+Lingkar Pinggang : 64-90 cm / 70-96 cm
+Lingkar Pinggul    : 88 cm / 92 cm
+Lingkar Paha         : 55 cm / 58 cm
+
+Happy Shopping dear ^^","Berat (dalam gram, max. 6000, 3-4 item Atasan berkisar 1 kg):",B (L-XL),Broken White,Belanja Sekarang,https://www.hijup.com/id/pants/131307-alunicorn-zoe-pants-broken-white-pants-wanita,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/710430/big_broken_wihte_1.png,2024-12-26
+LEZAHRASIGNATURE,Rp 179.850,"Jenis tipe celana panjang yang dapat sangat kamu andalkan
+baik untuk digunakan untuk kegiatan sehari2, ngantor/meeting atau acara hangout.",- Celana panjang baggy,XXL /9115.JO,Abu Muda,Belanja Sekarang,https://www.hijup.com/id/pants/92928-longpant-baggy-twill-tina-abu-muda,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/499882/big_HJP_LGRY2.jpg,2024-12-26
+,Rp 180.000,,,,,Sold Out,https://www.hijup.com/id/categories/rok?product_search%5Bpage%5D=7,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/694416/smaller_315383.jpg,2024-12-26
+Alunicorn,Rp 165.000,"Bermaterial Bobble yang lembut dan stretch. Cuttingan celana Cutbray dengan desain spesial terdapat garis belahan di bagian tengah celana yang bisa membuat kakimu terlihat lebih jenjang. Terdapat karet pinggang di bagian belakang pastinya nyaman dan mudah digunakan. Roco Pants memiliki warna-warna yang cocok digunakan kemanapun bisa untuk kerja atau hangout.
+
+Materials
+
+Bobble","Berat (dalam gram, max. 6000, 3-4 item Atasan berkisar 1 kg):",B (L-XL),Army,Belanja Sekarang,https://www.hijup.com/id/pants/131447-alunicorn-roco-pants-army,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/712104/big_Artboard_23.png,2024-12-26
+Alunicorn,Rp 189.000,"Kai Knit Pants 
+
+Kai Pants merupakan celana berbahan knit premium yang handmade sehingga lembut, stretchy, flowy dan nyaman. Memiliki pinggang full karet sehingga tidak perlu takut kekecilan. Cuttingannya dibuat wide leg sehingga memberi efek jenjang, cocok digunakan di acara santai maupun semi formal.
+
+
+Size Chart :
+
+A/B
+
+Panjang Celana               : 100/100
+
+Lingkar Pinggang            : 60/64
+
+Lingkar Pinggul                : 82/84
+
+Lingkar Paha                    : 52/54
+
+
+Warna : Teal (Hijau tosca), Deep Taupe, Charcoal, Brown Sugar, Jade Black, Simple Taupe, Pumpkin (orange), Deep Pink, Off White, Forest Green.
+
+
+Notes :
+
+Kemungkinan perbedaan sedikit warna antara barang yang difoto dan barang aslinya, dikarenakan faktor cahaya dan setting layar tampilan Anda, atau flash kamera. 
+
+
+Instruksi Perawatan :
+
+Jangan gunakan pemutih
+
+Jangan dicuci di mesin cuci
+
+Setrika dengan panas rendah","Berat (dalam gram, max. 6000, 3-4 item Atasan berkisar 1 kg):",B (L-XL),Simple Taupe,Belanja Sekarang,https://www.hijup.com/id/pants/126663-alunicorn-kai-pants-pants-wanita-knit-rajut-simple-taupe,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/686262/big_FOTO_PRODUK_WEB_4.png,2024-12-26
+LEZAHRASIGNATURE,Rp 179.850,"Jenis tipe celana panjang yang dapat sangat kamu andalkan
+baik untuk digunakan untuk kegiatan sehari2, ngantor/meeting atau acara hangout.",- Celana panjang baggy,XXL /9115.JO,Black,Belanja Sekarang,https://www.hijup.com/id/pants/92925-longpant-baggy-twill-tina-black,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/499865/big_HJP_BLK4.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 269.000,- Rok panjang ,- Pinggang karet,,Brown,Belanja Sekarang,https://www.hijup.com/id/skirt/128419-sporty-daily-skirt-in-brown,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/692928/big_HJP_BRW.jpg,2024-12-26
+Benang Jarum,Rp 975.000,Monogram Knit Skirt - Oat dari Benang Jarum. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,"72% Viscose, 28% Polyester",,Oat,Belanja Sekarang,https://www.hijup.com/id/skirt/134860-monogram-knit-skirt-oat,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/742243/big_Monogram_Knit_Skirt_-_Oat.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 269.000,- Rok panjang ,- Pinggang karet,,Brown,Belanja Sekarang,https://www.hijup.com/id/skirt/128404-daily-sporty-skirt-rok-panjang-babyterry,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/692823/big_HJP_BRW1.jpg,2024-12-26
+AMALA,Rp 180.000,Basic Pleats Skirt Brown dari AMALA. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,Spandek,,Brown,Belanja Sekarang,https://www.hijup.com/id/skirt/128359-basic-pleats-skirt-brown,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/694416/big_315383.jpg,2024-12-26
+,Rp 45.500,,,,,Sold Out,https://www.hijup.com/id/categories/rok?product_search%5Bpage%5D=5,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/593149/smaller_266590.jpg,2024-12-26
+,"IDR 113,400",,,,,Sold Out,https://www.hijup.com/en/categories/pants?product_search%5Bpage%5D=1,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/611599/smaller_v1-586-110602-186317-25085-46-272641.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 269.000,- Rok panjang ,- Pinggang karet,,Misty,Belanja Sekarang,https://www.hijup.com/id/skirt/128418-sporty-daily-skirt-in-misty,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/692923/big_HJP_MST.jpg,2024-12-26
+,"IDR 175,000",,,,,Sold Out,https://www.hijup.com/en/categories/pants?product_search%5Bpage%5D=6,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/749599/smaller_26806-338805.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 269.000,Long Skirt Tiered Alba koleksi Zahra Signature.,- Rok.,,Teracota,Belanja Sekarang,https://www.hijup.com/id/skirt/104852-long-skirt-tiered-alba-teracota,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/568420/big_HJP_TRC.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 269.000,Long Skirt Tiered Alba koleksi Zahra Signature.,- Rok.,,Olive,Belanja Sekarang,https://www.hijup.com/id/skirt/104848-long-skirt-tiered-alba-olive,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/568398/big_HJP_OLV.jpg,2024-12-26
+,"IDR 316,800",,,,,Sold Out,https://www.hijup.com/en/categories/pants?product_search%5Bpage%5D=8,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/547679/smaller_ABT.jpg,2024-12-26
+,"IDR 725,000",,,,,Sold Out,https://www.hijup.com/en/categories/skirt?product_search%5Bpage%5D=8,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/603852/smaller_v1-824-109784-185118-25057-70-270494.jpg,2024-12-26
+Lunan GO,"IDR 105,000","Celana ini terbuat dari bahan Katun Ima  yang tidak kaku, tebal tapi lembut dan nyaman dipake,cocok untuk ke kantor,kuliah atau bahkan menjadi pelengkap OOTD kalian.
+ 
+Celana Kulot   ini sangat nyaman dipakai karena bentuknya longgar,tidak ketat, dengan karet dibagian belakang Pinggang serta rampel dibagian pinggang.",Celana Bahan Katun Ima,All Size,Coral,Buy Now,https://www.hijup.com/en/pants/98789-celana-panjang-kulot-bahan-katun-ima,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/532365/big_WhatsApp_Image_2022-05-19_at_10.11.41.jpeg,2024-12-26
+Benang Jarum,Rp 595.000,Flare Skirt - Sand Pink dari Benang Jarum. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,"Outer: 84% Lyocell, 16% Polyester
+Lining:  97% Polyester, 3% Spandex",,Sand Pink,Belanja Sekarang,https://www.hijup.com/id/skirt/128103-flare-skirt-sand-pink,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/706351/big_6jul-35.jpg,2024-12-26
+,"IDR 179,850",,,,,Sold Out,https://www.hijup.com/en/categories/pants?product_search%5Bpage%5D=5,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/499887/smaller_HJP_BEI_4.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 269.000,- Rok panjang ,- Pinggang karet,,White,Belanja Sekarang,https://www.hijup.com/id/skirt/128415-sporty-daily-skirt-in-white,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/692908/big_HJP_WHT.jpg,2024-12-26
+,"IDR 46,800",,,,,Sold Out,https://www.hijup.com/en/categories/skirt?product_search%5Bpage%5D=1,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/694410/smaller_315386.jpg,2024-12-26
+AMALA,Rp 180.000,New Pleats Skirt Pink A dari AMALA. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,Spandek,,Pink,Belanja Sekarang,https://www.hijup.com/id/skirt/120295-new-pleats-skirt-pink-a,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/664621/big_298300.jpg,2024-12-26
+Avc.id,Rp 185.000,"Rok dengan warna cantik tekstur kain lembut  halus ringan mengkilap full furing sangat cantik ketika digunakan, dengan karet di pinggang membuat lebih fleksible dan nyaman","Silky rose shimmer
+kain yang sangat lembut halus mengkilat ringan dan full furing sangat nyaman digunakan ",All Size,Lilac Pink,Belanja Sekarang,https://www.hijup.com/id/skirt/124584-avc-candy-rok-lilac-pink,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/677338/big_photo_2023-04-15_09-26-27.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 269.000,- Rok panjang ,- Pinggang karet,,Milky Brown,Belanja Sekarang,https://www.hijup.com/id/skirt/128416-sporty-daily-skirt-in-milky-brown,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/692913/big_HJP_MBRW1.jpg,2024-12-26
+Avc.id,Rp 185.000,"Rok dengan warna cantik tekstur kain lembut  halus ringan mengkilap full furing sangat cantik ketika digunakan, dengan karet di pinggang membuat lebih fleksible dan nyaman","Silky rose shinny  glam
+kain yang sangat lembut halus mengkilat ringan dan full furing sangat nyaman digunakan ",all size,Peach,Belanja Sekarang,https://www.hijup.com/id/skirt/124380-avc-candy-skirt-peach,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/677396/big_photo_2023-04-09_21-26-25.jpg,2024-12-26
+AMALA,Rp 180.000,Basic Pleats Skirt Pink dari AMALA. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,Spandek,,Pink,Belanja Sekarang,https://www.hijup.com/id/skirt/126471-basic-pleats-skirt-pink,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/687495/big_310640.jpg,2024-12-26
+MDH Indonesia Defect Sale,Rp 285.000,"Span Skirt yang simple, modis, dan trendy
+- Bahan Mango Knit
+- Nyaman dipakai, elastis, lembut, tidak nerawang, tidak mudah kusut
+- Kain warna solid yang bertekstur lurus vertical, serat rapat
+- Simple, modis, trendy
+- Multifungsi untuk tampilan formal dan semi formal",Mango Knit,One Size,Blue,Belanja Sekarang,https://www.hijup.com/id/skirt/102577-defect-sale-reject-kotor-adiba-span-skirt-rain-drops,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/701243/big_366._Adiba_Span_Skirt_Rain_Drop_1.png,2024-12-26
+,"IDR 218,900",,,,,Sold Out,https://www.hijup.com/en/categories/skirt?product_search%5Bpage%5D=3,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/630552/smaller_HJP_NVY.jpg,2024-12-26
+AMALA,Rp 45.500,Pleats Skirt Lilac dari AMALA. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,Spandek,All Size,Lilac,Belanja Sekarang,https://www.hijup.com/id/skirt/81211-pleats-skirt-lilac,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/442928/big_203148.JPG,2024-12-26
+Alunicorn,"IDR 165,000","Zoe Pants
+
+Zoe Pants merupakan pants / celana  berbahan scuba handmade sehingga lembut, stretchy, flowly dan nyaman. Bagian pinggang full karet sehingga tidak perlu takut kekecilan. Design spesial terdapat garis belahan di bagian pinggir celana serta dibuat model wide-leg membuat penampilan terlihat lebih jenjang. Cocok dipakai di acara santai maupun acara semi-formal.
+
+Tersedia 6 Warna:
+
+1. Sand
+
+2. Broken White
+
+3. Fern
+
+4. Browny
+
+5. Black
+
+6. Tortilla
+
+Size Chart
+Size                       : A (S-M) / B (L-XL)
+Panjang Celana     : 100 cm / 102 cm
+Lingkar Pinggang : 64-90 cm / 70-96 cm
+Lingkar Pinggul    : 88 cm / 92 cm
+Lingkar Paha         : 55 cm / 58 cm
+
+Happy Shopping dear ^^","Weight (in gram, max. 6000, 3-4 Tops is approximately 1 kg):",B (L-XL),Fern,Buy Now,https://www.hijup.com/en/pants/131308-alunicorn-zoe-pants-fern-pants-wanita,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/710432/big_fern_1.png,2024-12-26
+Alunicorn,"IDR 165,000","Zoe Pants
+
+Zoe Pants merupakan pants / celana  berbahan scuba handmade sehingga lembut, stretchy, flowly dan nyaman. Bagian pinggang full karet sehingga tidak perlu takut kekecilan. Design spesial terdapat garis belahan di bagian pinggir celana serta dibuat model wide-leg membuat penampilan terlihat lebih jenjang. Cocok dipakai di acara santai maupun acara semi-formal.
+
+Tersedia 6 Warna:
+
+1. Sand
+
+2. Broken White
+
+3. Fern
+
+4. Browny
+
+5. Black
+
+6. Tortilla
+
+Size Chart
+Size                       : A (S-M) / B (L-XL)
+Panjang Celana     : 100 cm / 102 cm
+Lingkar Pinggang : 64-90 cm / 70-96 cm
+Lingkar Pinggul    : 88 cm / 92 cm
+Lingkar Paha         : 55 cm / 58 cm
+
+Happy Shopping dear ^^","Weight (in gram, max. 6000, 3-4 Tops is approximately 1 kg):",B (L-XL),Broken White,Buy Now,https://www.hijup.com/en/pants/131307-alunicorn-zoe-pants-broken-white-pants-wanita,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/710430/big_broken_wihte_1.png,2024-12-26
+Alunicorn,"IDR 189,000","Kai Knit Pants 
+
+Kai Pants merupakan celana berbahan knit premium yang handmade sehingga lembut, stretchy, flowy dan nyaman. Memiliki pinggang full karet sehingga tidak perlu takut kekecilan. Cuttingannya dibuat wide leg sehingga memberi efek jenjang, cocok digunakan di acara santai maupun semi formal.
+
+
+Size Chart :
+
+A/B
+
+Panjang Celana               : 100/100
+
+Lingkar Pinggang            : 60/64
+
+Lingkar Pinggul                : 82/84
+
+Lingkar Paha                    : 52/54
+
+
+Warna : Teal (Hijau tosca), Deep Taupe, Charcoal, Brown Sugar, Jade Black, Simple Taupe, Pumpkin (orange), Deep Pink, Off White, Forest Green.
+
+
+Notes :
+
+Kemungkinan perbedaan sedikit warna antara barang yang difoto dan barang aslinya, dikarenakan faktor cahaya dan setting layar tampilan Anda, atau flash kamera. 
+
+
+Instruksi Perawatan :
+
+Jangan gunakan pemutih
+
+Jangan dicuci di mesin cuci
+
+Setrika dengan panas rendah","Weight (in gram, max. 6000, 3-4 Tops is approximately 1 kg):",B (L-XL),Simple Taupe,Buy Now,https://www.hijup.com/en/pants/126663-alunicorn-kai-pants-pants-wanita-knit-rajut-simple-taupe,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/686262/big_FOTO_PRODUK_WEB_4.png,2024-12-26
+LEZAHRASIGNATURE,"IDR 139,900",Longpant Basic Ara dari Zahra Signature. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,- Celana panjang,M /9934.BPC,Beige,Buy Now,https://www.hijup.com/en/pants/87747-longpant-basic-ara-beige,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/474575/big_BEIGE_3.jpg,2024-12-26
+LEZAHRASIGNATURE,"IDR 179,850","Jenis tipe celana panjang yang dapat sangat kamu andalkan
+baik untuk digunakan untuk kegiatan sehari2, ngantor/meeting atau acara hangout.",- Celana panjang baggy,XXL /9115.JO,Black,Buy Now,https://www.hijup.com/en/pants/92925-longpant-baggy-twill-tina-black,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/499865/big_HJP_BLK4.jpg,2024-12-26
+LEZAHRASIGNATURE,"IDR 179,850","Jenis tipe celana panjang yang dapat sangat kamu andalkan
+baik untuk digunakan untuk kegiatan sehari2, ngantor/meeting atau acara hangout.",- Celana panjang baggy,XXL /9115.JO,Coklat Abu,Buy Now,https://www.hijup.com/en/pants/92922-longpant-baggy-twill-tina-coklat-abu,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/499854/big_HJP_CKA3.jpg,2024-12-26
+Avc.id,Rp 185.000,"Rok dengan warna cantik tekstur kain lembut  halus ringan mengkilap full furing sangat cantik ketika digunakan, dengan karet di pinggang membuat lebih fleksible dan nyaman","Silky rose shinny
+kain yang sangat lembut halus mengkilat ringan dan full furing sangat nyaman digunakan ",all size,Off white,Belanja Sekarang,https://www.hijup.com/id/skirt/124381-avc-candy-skirt-off-white,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/676068/big_WhatsApp_Image_2023-04-09_at_20.17.58.jpg,2024-12-26
+LEZAHRASIGNATURE,"IDR 179,850","Jenis tipe celana panjang yang dapat sangat kamu andalkan
+baik untuk digunakan untuk kegiatan sehari2, ngantor/meeting atau acara hangout.",- Celana panjang baggy,XXL /9115.JO,Coklat Olive,Buy Now,https://www.hijup.com/en/pants/92934-longpant-baggy-twill-tina-coklat-olive,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/499893/big_HJP_CKO4.jpg,2024-12-26
+,"IDR 217,500",,,,,Sold Out,https://www.hijup.com/en/categories/pants?product_search%5Bpage%5D=4,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/749623/smaller_26806-338803-5.jpg,2024-12-26
+Kamiidea,"IDR 529,000","Straight-cut jeans made of poly cotton spandex material. Features belt loop, engraved button, front coin pocket, and back pocket.
+
+Jeans lurus berbahan poly cotton spandex. Dilengkapi loop untuk ikat pinggang, kancing yang diukir dengan logo, saku koin di depan, dan saku belakang.
+
+- 3 color options
+- Loose fit in straight-cut silhouette
+- Machine wash in regular cycle with non-bleach detergent
+- Wash in heat can cause damage to the fibers of the fabric
+- Iron with medium setting to prevent fabric from damage
+- Better to not tumble dry
+- Made with poly cotton spandex material
+
+- 3 pilihan warna
+- Ukuran lebar dengan siluet potongan lurus
+- Cuci dengan mesin dalam siklus reguler dengan detergen tanpa pemutih
+- Cuci dengan air panas dapat menyebabkan kerusakan pada serat kain
+- Setrika dengan pengaturan sedang untuk mencegah rusaknya serat
+- Lebih baik tidak di eringkan menggunakan mesin
+- Dibuat menggunakan bahan katun poly spandex","Weight (in gram, max. 6000, 3-4 Tops is approximately 1 kg):",,Medium Blue,Buy Now,https://www.hijup.com/en/pants/106061-kami-cielo-jeans-pants-plain-medium-bue,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/576086/big_KAMI_CIELO_JEANS_MEDIUM_BLUE_1.jpg,2024-12-26
+LEZAHRASIGNATURE,"IDR 269,000",Kulot Jeans Baggy Mila dari LEZAHRASIGNATURE. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Denim Non Strech,,Black,Buy Now,https://www.hijup.com/en/pants/103172-kulot-jeans-baggy-mila,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/558405/big_HJP_BLK.jpg,2024-12-26
+LEZAHRASIGNATURE,"IDR 298,000",ABU TUA (XXL) TERDAPAT BS JAHITAN DI BAGIAN BAWAH PERGELANGAN KAKI SEBELAH KANAN , ABU TUA (XL) TERDAPAT NODA DIBAGIAN DEPAN!! TIDAK ADA BOLONG DAN JAHITAN RAPIH!!,,Dark Grey (NODA),Buy Now,https://www.hijup.com/en/pants/101536-defect-sale-longpant-twill-hilda,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/547679/big_ABT.jpg,2024-12-26
+LEZAHRASIGNATURE,"IDR 179,850","Jenis tipe celana panjang yang dapat sangat kamu andalkan
+baik untuk digunakan untuk kegiatan sehari2, ngantor/meeting atau acara hangout.",- Celana panjang baggy,M /9115.JO,Beige,Buy Now,https://www.hijup.com/en/pants/92932-longpant-baggy-twill-tina-beige,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/499887/big_HJP_BEI_4.jpg,2024-12-26
+LEZAHRASIGNATURE,"IDR 573,600",Bundle 3 Pcs Mix Babyterry Bottom,- Kulot 1: Kulot Daily Babyterry (polos),,Black Only (Kulot- Jogger-Longpant),Buy Now,https://www.hijup.com/en/pants/76523-bundle-3-pcs-mix-babyterry-bottom,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/410351/big_HJP_BLK.jpg,2024-12-26
+Club Solitaire,"IDR 175,000",PN 2416 Pamela Pants dari Club Solitaire. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,polyester wool,All Size,Bw,Buy Now,https://www.hijup.com/en/pants/132937-pn-2416-pamela-pants,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/721660/big_327066.jpg,2024-12-26
+Morning Sunshine,"IDR 250,000",Tampil simply chic dengan Morning Sunshine Polly Pants. Celana panjang dengan aplikasi ruffle dan siluet straight fit.,Katun,M,Navy,Buy Now,https://www.hijup.com/en/pants/50016-polly-pants,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/243265/big_v1-227-50016-92904-16187-46-124003-2.jpg,2024-12-26
+LEZAHRASIGNATURE,"IDR 594,000",Bundle 3 Pcs Longpant Denim Daily isi:,Longpant 1 : Dark Blue,,Dark Blue/ Light Blue/ Black,Buy Now,https://www.hijup.com/en/pants/93221-bundle-3-pcs-longpant-denim-daily-01,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/501667/big_DB.jpg,2024-12-26
+LEZAHRASIGNATURE,"IDR 179,850","Jenis tipe celana panjang yang dapat sangat kamu andalkan
+baik untuk digunakan untuk kegiatan sehari2, ngantor/meeting atau acara hangout.",- Celana panjang baggy,XXL /9115.JO,Abu Muda,Buy Now,https://www.hijup.com/en/pants/92928-longpant-baggy-twill-tina-abu-muda,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/499882/big_HJP_LGRY2.jpg,2024-12-26
+,"IDR 149,850",,,,,Sold Out,https://www.hijup.com/en/categories/pants?product_search%5Bpage%5D=7,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/547150/smaller_HJP_LGRY5.jpg,2024-12-26
+LEZAHRASIGNATURE,"IDR 316,800","Produk ini berisi 2 variasi warna Longpant Irma, ",- Celana panjang berbahan ringan dan lembut.,,Brown - Light Grey,Buy Now,https://www.hijup.com/en/pants/112759-buy-1-get-1-free-longpant-irma,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/617501/big_HJP_LBRW4.jpg,2024-12-26
+Alunicorn,"IDR 165,000","Bermaterial Bobble yang lembut dan stretch. Cuttingan celana Cutbray dengan desain spesial terdapat garis belahan di bagian tengah celana yang bisa membuat kakimu terlihat lebih jenjang. Terdapat karet pinggang di bagian belakang pastinya nyaman dan mudah digunakan. Roco Pants memiliki warna-warna yang cocok digunakan kemanapun bisa untuk kerja atau hangout.
+
+Materials
+
+Bobble","Weight (in gram, max. 6000, 3-4 Tops is approximately 1 kg):",B (L-XL),Army,Buy Now,https://www.hijup.com/en/pants/131447-alunicorn-roco-pants-army,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/712104/big_Artboard_23.png,2024-12-26
+,"IDR 299,000",,,,,Sold Out,https://www.hijup.com/en/categories/pants?product_search%5Bpage%5D=9,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/551899/smaller_HJP_LGRY.jpg,2024-12-26
+CHALE Official,"IDR 98,450","Kian terlihat sophisticated dengan CHALE Basic Pleats Skirt. Rok plisket polos untuk berbagai padupadan gaya.
+
+- Bahan nyaman dan ringan.
+- Karet pinggang.
+- Siluet a-line.
+- Detail plisket.",Spandex,All Size,Snow,Buy Now,https://www.hijup.com/en/skirt/79030-basic-pleats-skirt-snow,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/426954/big_v1-989-75066-138541-23647-46-190336.jpg,2024-12-26
+LEZAHRASIGNATURE,"IDR 174,950",Long Skirt Plisket Ana koleksi Zahra Signature,- Rok panjang.,All Size /712.SA,Light Grey,Buy Now,https://www.hijup.com/en/skirt/87325-long-skirt-plisket-ana-in-light-grey,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/599682/big_WhatsApp_Image_2022-09-16_at_09.53.44__1_.jpeg,2024-12-26
+Fey Attire Official,"IDR 104,500","Celana kulot panjang high waist yang dilengkapi tali pita yang bisa dilepas pasang dan karet pada bagian pinggang. Terdapat resleting dan  saku pada bagian sebelah kanan dan kiri
+",Torino,All Size,Plum,Buy Now,https://www.hijup.com/en/pants/100177-syanaz-pants,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/540075/big_FEY_ATIRE_1_1_BAWAHAN.JPG,2024-12-26
+LEZAHRASIGNATURE,"IDR 174,950",Long Skirt Plisket Ana koleksi Zahra Signature,- Rok panjang.,All Size /712.SA,Dark Grey,Buy Now,https://www.hijup.com/en/skirt/87290-long-skirt-plisket-ana-in-dark-grey,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/737461/big_WhatsApp_Image_2024-03-26_at_12.00.21.jpeg,2024-12-26
+LEZAHRASIGNATURE,"IDR 174,950",Long Skirt Plisket Ana koleksi Zahra Signature,- Rok panjang.,All Size /712.SA,Black,Buy Now,https://www.hijup.com/en/skirt/87324-long-skirt-plisket-ana-in-black,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/599668/big_WhatsApp_Image_2022-09-16_at_09.53.43.jpeg,2024-12-26
+LEZAHRASIGNATURE,"IDR 149,850",Kulot Katun Ashley dari LEZAHRASIGNATURE. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,- Celana kulot,M /708.BYL,Light Grey,Buy Now,https://www.hijup.com/en/pants/101460-kulot-katun-ashley-light-grey,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/547150/big_HJP_LGRY5.jpg,2024-12-26
+LEZAHRASIGNATURE,"IDR 199,850",Velvet Skirt (Rok Plisket) Hitam dari LEZAHRASIGNATURE. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,Bludru,All Size/ 716.SA,Hitam,Buy Now,https://www.hijup.com/en/skirt/138028-velvet-skirt-rok-plisket-hitam,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/750571/big_HJP_1.jpg,2024-12-26
+LEZAHRASIGNATURE,"IDR 149,850",Kulot Katun Ashley dari LEZAHRASIGNATURE. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,- Celana kulot,L /708.BYL,Black,Buy Now,https://www.hijup.com/en/pants/101459-kulot-katun-ashley-black,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/547144/big_HJP_BLK7.jpg,2024-12-26
+AMALA,Rp 45.500,New Pleats Skirt Lilac dari AMALA. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,Spandek,All Size,Lilac,Belanja Sekarang,https://www.hijup.com/id/skirt/97361-new-pleats-skirt-lilac,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/526870/big_239612.jpg,2024-12-26
+Siselyo,Rp 70.000,"Holla Cantik!
+","
+Untuk melengkapi outfit kalian, kita produksi rok berbahan waffle, nih say. Desainnya simple, tapi tetap terlihat girly. Kalian bisa mix & match rok ini, dengan atasan apapun!
+",All Size,Navy,Belanja Sekarang,https://www.hijup.com/id/skirt/80593-janan-skirt-navy-m15696-r105s2,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/436406/big_NWL_1800_-_Copy.jpg,2024-12-26
+LEZAHRASIGNATURE,"IDR 189,450",Ayana Skirt 2 dari LEZAHRASIGNATURE. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,Cotton,XL /411.BYL,Navy,Buy Now,https://www.hijup.com/en/skirt/125856-ayana-skirt-2,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/682952/big_HJP_NVY3.jpg,2024-12-26
+Siselyo,Rp 70.000,"Holla Cantik!
+","
+Untuk melengkapi outfit kalian, kita produksi rok berbahan waffle, nih say. Desainnya simple, tapi tetap terlihat girly. Kalian bisa mix & match rok ini, dengan atasan apapun!
+",All Size,Black,Belanja Sekarang,https://www.hijup.com/id/skirt/80592-janan-skirt-black-m15697-r105s2,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/436402/big_NWL_1824_-_Copy.jpg,2024-12-26
+LEZAHRASIGNATURE,"IDR 149,850",Kulot Katun Ashley dari LEZAHRASIGNATURE. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,- Celana kulot,M /708.BYL,Dark Grey,Buy Now,https://www.hijup.com/en/pants/101450-kulot-katun-ashley-dark-grey,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/547105/big_HJP_DGRY5.jpg,2024-12-26
+Lunan GO,"IDR 95,000","Celana ini terbuat dari bahan Rami yang tidak kaku, tebal tapi lembut dan nyaman dipake,cocok untuk ke kantor,kuliah atau bahkan menjadi pelengkap OOTD kalian.
+ 
+Celana Basic  ini sangat nyaman dipakai karena bentuknya longgar,tidak ketat, dengan karet dibagian belakang Pinggang serta kancing dibagian bawah celanan yang bisa dikait untuk membentuk celana pencil dan dilepas untuk memudahkan saat berwudhu.",Celana Bahan Katun Ima,All Size,Navy,Buy Now,https://www.hijup.com/en/pants/98802-celana-panjang-basic-linen-rami-model-kancing,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/532415/big_clns3.jpg,2024-12-26
+AMALA,Rp 45.500,Pleats Skirt Lemon A dari AMALA. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,Spandek,All Size,Lemon,Belanja Sekarang,https://www.hijup.com/id/skirt/107902-pleats-skirt-lemon-a,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/593149/big_266590.jpg,2024-12-26
+Siselyo,Rp 88.000,"Hai girls! Lagi cari rok span ukuran bigsize yang nyaman dan bisa dipakai ke berbagai macam acara? Ini jawabannya!
+Rok span ini bigsize ya dear, dan cocok dipadupadankan dengan style andalan kalian ;)
 ","
 Detail produk yang didapatkan:
-",All Size,Sage,https://www.hijup.com/id/jumpsuit/104254-dellisha-overall-dress-sage-m17159-r40s3,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/710846/big_DSCF5240.jpg
-,Mybamus,125000,"Hello beauty! Kamu ga perlu ribet lagi buat OOTD, karena one set yang satu ini praktis untuk menemani hari casualmu. Tampilan simple tapi tetap eye catching dengan detail inner motif salur dan overall berpotongan longgar dengan karet, jadi nggak membatasi aktivitas kamu. Bisa juga kamu pakai secara terpisah loh! Kapan lagi bisa tampil fashionable tanpa ribet kalau bukan pakai one set yang satu ini. Yuk check out sekarang!
+",All Size,Sage,Belanja Sekarang,https://www.hijup.com/id/skirt/101135-terra-skirt-sage-bigsize-m16784-r54s6,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/545513/big_1_MARET_2022_EMA_FG_RIFKI-119761.jpg,2024-12-26
+Siselyo,Rp 92.000,"Hello beauty! Reina skirt ini akan menjadi andalan para pecinta rok, karena mempunyai model yang sangat unik dan cocok untuk dijadikan OOTD! Detail serut 2 di bagian depan, berfungsi untuk menyesuaikan ukuran panjang pendeknya rok kamu, juga menambah keunikan Style OOTD kamu. Jangan lupa padukan dengan atasan favorit, ya!
 ","
-- polyester knit (overall) mix hornet premium (inner) material
-",Allsize,Fuschia M19134 R111S1,https://www.hijup.com/id/jumpsuit/140794-mybamus-liany-one-set-overall-setelan-inner-jumpsuit-wanita,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/765620/big_WhatsApp_Image_2024-11-21_at_15.47.02__1_.jpeg
-,Nadjani Official,495000,"Lingkar dada 100cm
-Lingkar ketiak 54cm
-Panjang 113cm
-Bahan cotton poly
-",cotton poly,All Size ,Kay Jumpsuit Syika,https://www.hijup.com/id/jumpsuit/130739-nadjani-kay-jumpsuit-syika,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/708055/big_Kay_Jumpsuit_Syika_1.jpg
-,Nadjani Official,495000,"Lingkar dada 100cm
-Lingkar ketiak 54cm
-Panjang 113cm
-Bahan cotton poly
-",cotton poly,All Size,Kay Jumpsuit White,https://www.hijup.com/id/jumpsuit/130740-nadjani-kay-jumpsuit-white,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/708058/big_Kay_Jumpsuit_White_1.jpg
-,Nadjani Official,495000,"Lingkar dada 100cm
-Lingkar ketiak 54cm
-Panjang 113cm
-Bahan cotton poly", cotton poly,All Size,Kay Jumpsuit Red,https://www.hijup.com/id/jumpsuit/130738-nadjani-kay-jumpsuit-red,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/708052/big_Kay_Jumpsuit_Red_1.jpg
-,Nadjani Official,495000,"Lingkar dada 100cm
-Lingkar ketiak 54cm
-Panjang 113cm
-Bahan cotton poly",cotton poly,All Size,Kay Jumpsuit Amy,https://www.hijup.com/id/jumpsuit/130733-nadjani-kay-jumpsuit-amy,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/708037/big_Kay_Jumpsuit_Amy_1.jpg
-,Benang Jarum,595000,High Waist Ankle Pants - Camel dari Benang Jarum. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,"50% Cotton, 47% Nylon, 3% Spandex",S,Camel,https://www.hijup.com/id/pants/140995-high-waist-ankle-pants-camel,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/766526/big_HighWaistAnklePants-Camel_3.jpg
-Grey,L'Mira Ethnique,650000,- Jumpsuit dengan aksen lurik di depan dan saku unik berkerut di samping serta ritsleting depan yang dapat digunakan sebagai akses menyusui.,"
-- Ada aksen kerut di ujung kaki.",,Grey,https://www.hijup.com/id/jumpsuit/73111-larona-jumpsuit,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/391481/big_182929.jpg
+",All Size,Olive,Belanja Sekarang,https://www.hijup.com/id/skirt/112840-siselyo-x-puwputt-reina-skirt-big-size-olive-m17401-r67s4,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/618248/big_IMG_1523.jpg,2024-12-26
+Benang Jarum,Rp 725.000,Satin Pleats Skirt - Yellow dari Benang Jarum. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,Satin,,Yellow,Belanja Sekarang,https://www.hijup.com/id/skirt/109787-satin-pleats-skirt-yellow,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/603818/big_v1-824-109787-185121-25057-70-270501.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 179.850,"Jenis tipe celana panjang yang dapat sangat kamu andalkan
+baik untuk digunakan untuk kegiatan sehari2, ngantor/meeting atau acara hangout.",- Celana panjang baggy,XXL /9115.JO,Coklat Olive,Belanja Sekarang,https://www.hijup.com/id/pants/92934-longpant-baggy-twill-tina-coklat-olive,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/499893/big_HJP_CKO4.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 218.900,Alba Skirt Bigsize koleksi Zahra Signature.,- Rok.,All Size/201.BYL2,Navy,Belanja Sekarang,https://www.hijup.com/id/skirt/115022-alba-skirt-rok-katun-bigsize-canda,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/630552/big_HJP_NVY.jpg,2024-12-26
+Siselyo,Rp 88.000,"Hai girls! Lagi cari rok span ukuran bigsize yang nyaman dan bisa dipakai ke berbagai macam acara? Ini jawabannya!
+Rok span ini bigsize ya dear, dan cocok dipadupadankan dengan style andalan kalian ;)
+","
+Detail produk yang didapatkan:
+",All Size,Cream,Belanja Sekarang,https://www.hijup.com/id/skirt/101136-terra-skirt-cream-bigsize-m16783-r54s5,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/545517/big_1_MARET_2022_EMA_FG_RIFKI-119593.jpg,2024-12-26
+Arsscarf,Rp 425.000,Florian Skirt - Pink dari Arsscarf. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,"Georgette Poliester
+",,Pink,Belanja Sekarang,https://www.hijup.com/id/skirt/105567-florian-skirt-pink,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/574250/big_HIJUP__Florian_skirt_pink3.jpg,2024-12-26
+Benang Jarum,Rp 725.000,Satin Pleats Skirt - Purple dari Benang Jarum. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,"Berat (dalam gram, max. 6000, 3-4 item Atasan berkisar 1 kg):",,Purple,Belanja Sekarang,https://www.hijup.com/id/skirt/109784-satin-pleats-skirt-purple,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/603852/big_v1-824-109784-185118-25057-70-270494.jpg,2024-12-26
+Benang Jarum,Rp 575.000,Khanum Knit Pants - Maroon dari Benang Jarum. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,"51% Viscose, 29% Polyester, 20% Nylon
+",,Maroon,Belanja Sekarang,https://www.hijup.com/id/pants/123070-khanum-knit-pants-maroon,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/674805/big_Khanum_Knit_Pants_-_Maroon.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 179.850,"Jenis tipe celana panjang yang dapat sangat kamu andalkan
+baik untuk digunakan untuk kegiatan sehari2, ngantor/meeting atau acara hangout.",- Celana panjang baggy,M /9115.JO,Beige,Belanja Sekarang,https://www.hijup.com/id/pants/92932-longpant-baggy-twill-tina-beige,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/499887/big_HJP_BEI_4.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 299.000,Kulot Spandex Wilona dari LEZAHRASIGNATURE. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,- Celana kulot spandex lebar,,White,Belanja Sekarang,https://www.hijup.com/id/pants/106714-kulot-spandex-wilona-white,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/663850/big_HJP_WILONA_WHT.jpg,2024-12-26
+Benang Jarum,Rp 575.000,Khanum Knit Pants - Oat dari Benang Jarum. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,"51% Viscose, 29% Polyester, 20% Nylon
+",,Oat,Belanja Sekarang,https://www.hijup.com/id/pants/123071-khanum-knit-pants-oat,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/674809/big_Khanum_Knit_Pants_-_Oat.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 298.000,ABU TUA (XXL) TERDAPAT BS JAHITAN DI BAGIAN BAWAH PERGELANGAN KAKI SEBELAH KANAN , ABU TUA (XL) TERDAPAT NODA DIBAGIAN DEPAN!! TIDAK ADA BOLONG DAN JAHITAN RAPIH!!,,Dark Grey (NODA),Belanja Sekarang,https://www.hijup.com/id/pants/101536-defect-sale-longpant-twill-hilda,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/547679/big_ABT.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 239.000,Kulot Katun Maya dari LEZAHRASIGNATURE. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Katun Rayon Twill Premium,,Light Grey,Belanja Sekarang,https://www.hijup.com/id/pants/102099-kulot-katun-maya,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/551899/big_HJP_LGRY.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 316.800,"Produk ini berisi 2 variasi warna Longpant Irma, ",- Celana panjang berbahan ringan dan lembut.,,Brown - Light Grey,Belanja Sekarang,https://www.hijup.com/id/pants/112759-buy-1-get-1-free-longpant-irma,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/617501/big_HJP_LBRW4.jpg,2024-12-26
+AMALA,Rp 46.800,Basic Pleats Skirt Army dari AMALA. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,Spandek,All Size,Army,Belanja Sekarang,https://www.hijup.com/id/skirt/126480-basic-pleats-skirt-army,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/687473/big_310649.jpg,2024-12-26
+HIJUP INFREENITY,Rp 95.200,Lengkapi berbagai tampilan dengan koleksi Legging dari HIJUP INFREENITY. Legging dengan bahan stretchable yang nyaman untuk menemani setiap aktivitas.,- Bahan TENCEL™ super ringan dan elastis.,S,Beige,Belanja Sekarang,https://www.hijup.com/id/pants/56755-legging,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/326166/big_6K4A7562.jpg,2024-12-26
+HIJUP BASIC,Rp 113.400,High Waist Knit Pants dari HIJUP BASIC. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Knit,All Size,Jade Green,Belanja Sekarang,https://www.hijup.com/id/pants/110602-high-waist-knit-pants,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/611599/big_v1-586-110602-186317-25085-46-272641.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 594.000,Bundle 3 Pcs Longpant Denim Daily isi:,Longpant 1 : Dark Blue,,Dark Blue/ Light Blue/ Black,Belanja Sekarang,https://www.hijup.com/id/pants/93221-bundle-3-pcs-longpant-denim-daily-01,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/501667/big_DB.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 269.000,Kulot Wanda Black dari LEZAHRASIGNATURE. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Spandex,,Brown,Belanja Sekarang,https://www.hijup.com/id/pants/108903-kulot-wanda,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/605774/big_HJP_BRW1.jpg,2024-12-26
+Vio Murdina,Rp 135.000,Kulot Akita dari Vio Murdina. Koleksi Pants muslim terbaru dengan material yang nyaman dikenakan.,Linen,,Yellow Stripe,Belanja Sekarang,https://www.hijup.com/id/pants/99835-kulot-akita,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/572266/big_Akita_yellow.jpg,2024-12-26
+LEZAHRASIGNATURE,Rp 573.600,Bundle 3 Pcs Mix Babyterry Bottom,- Kulot 1: Kulot Daily Babyterry (polos),,Black Only (Kulot- Jogger-Longpant),Belanja Sekarang,https://www.hijup.com/id/pants/76523-bundle-3-pcs-mix-babyterry-bottom,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/410351/big_HJP_BLK.jpg,2024-12-26
+AMALA,Rp 46.800,Basic Pleats Skirt Maroon dari AMALA. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,Spandek,All Size,Maroon,Belanja Sekarang,https://www.hijup.com/id/skirt/128362-basic-pleats-skirt-maroon,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/694410/big_315386.jpg,2024-12-26
+AMALA,Rp 46.800,Basic Pleats Skirt Lavender dari AMALA. Koleksi Skirt muslim terbaru dengan material yang nyaman dikenakan.,Spandek,All Size,Lavender,Belanja Sekarang,https://www.hijup.com/id/skirt/128360-basic-pleats-skirt-lavender,https://storage.googleapis.com/hijup-production-sg-core/system/product_image/image/694414/big_315384.jpg,2024-12-26
