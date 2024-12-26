@@ -10,5 +10,16 @@ from itemadapter import ItemAdapter
 
 class HijupPipeline:
     def process_item(self, item, spider):
-        item['price'] = int(item['price'].replace('Rp ', '').replace('.', ''))
+        item['price'] = item['price'][1] if len(item['price'][1]) > 3 else item['price'][0]
+        #item['price'] = self.extract_numeric_price(item['price'])
         return item
+    
+
+    def extract_numeric_price(self, price):
+        import re
+        match = re.search(r'\d+(?:\.\d+)?', price)
+        if match:
+            return match.group().replace('.', '')
+        else:
+            return None
+        

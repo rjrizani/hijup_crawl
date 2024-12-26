@@ -2,6 +2,7 @@ import scrapy
 from scrapy.spiders.crawl import CrawlSpider,Rule
 from scrapy.linkextractors import LinkExtractor
 from scrapy.http import Response
+from datetime import datetime
 
 
 class HijupMainSpider(CrawlSpider):
@@ -29,15 +30,18 @@ class HijupMainSpider(CrawlSpider):
         self.logger.info(f"Scraping URL: {response.url}")
         #title = response.css("div.css-1us5m20 ::text").get()
         brand = response.css('div.css-1ob02yt::text').get()
-        price = response.css('span.css-vurnku span::text').get()
+        price= response.css('span.css-vurnku span::text').getall()
+       
         all_desc = response.css('div.css-cjqqqb::text').getall()
         description = all_desc[0] if len(all_desc) > 0 else None
         material = all_desc[1] if len(all_desc) > 1 else None
         size = response.css('.css-s5rw3r::text').get()
         color_elements = response.css('.css-cc1trw::text').getall()
         color = color_elements[1] if len(color_elements) > 1 else None
+        availability = response.css("div.css-1odyx6k span::text").get()   
         url = response.url
         img_url = response.css('img.css-18aq413::attr(src)').get()
+        scraped_at =  datetime.now().date()
 
         yield {
             #'title': title,
@@ -47,7 +51,9 @@ class HijupMainSpider(CrawlSpider):
             'material': material,   
             'size': size,
             'color': color,
+            'availability': availability,
             'url': url, 
-            'img_url': img_url  
+            'img_url': img_url,
+            'scraped_at': scraped_at  
         }
 

@@ -11,7 +11,7 @@ class HijupItem(scrapy.Item):
     # name = scrapy.Field()
     title = scrapy.Field()
     brand = scrapy.Field()
-    price = scrapy.Field()
+    price= scrapy.Field()
     description = scrapy.Field()
     material = scrapy.Field()
     size = scrapy.Field()
@@ -19,6 +19,8 @@ class HijupItem(scrapy.Item):
 
     url = scrapy.Field()
     img_url = scrapy.Field()
+    availability = scrapy.Field()
+    scraped_at = scrapy.Field()
 
 
 
