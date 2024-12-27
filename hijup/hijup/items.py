@@ -11,7 +11,7 @@ class HijupItem(scrapy.Item):
     # name = scrapy.Field()
     title = scrapy.Field()
     brand = scrapy.Field()
-    price= scrapy.Field()
+    price_RP = scrapy.Field()
     description = scrapy.Field()
     material = scrapy.Field()
     size = scrapy.Field()

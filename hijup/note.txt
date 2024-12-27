@@ -14,3 +14,7 @@ https://www.hijup.com/id/categories/rok
             <a class="css-ao95h1" href="/id/brands/hijupbasic">
                 <div class="css-1im10e4">HIJUP BASIC</div>
             </a>
+
+
+nr_5_start =  response.css("div.css-1bqyywo::text").getall()
+# ['(', '2353', ')', '(', '2353', ')', '(', '2353', ')', '(', '2353', ')', '(', '2353', ')', '(', '2353', ')'] 

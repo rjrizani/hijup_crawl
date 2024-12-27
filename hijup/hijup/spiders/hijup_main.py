@@ -28,9 +28,9 @@ class HijupMainSpider(CrawlSpider):
 
     def parse(self, response: Response):
         self.logger.info(f"Scraping URL: {response.url}")
-        #title = response.css("div.css-1us5m20 ::text").get()
+        title = response.url
         brand = response.css('div.css-1ob02yt::text').get()
-        price= response.css('span.css-vurnku span::text').getall()
+        price_RP= response.css('span.css-vurnku span::text').getall()
        
         all_desc = response.css('div.css-cjqqqb::text').getall()
         description = all_desc[0] if len(all_desc) > 0 else None
@@ -44,9 +44,9 @@ class HijupMainSpider(CrawlSpider):
         scraped_at =  datetime.now().date()
 
         yield {
-            #'title': title,
+            'title': title,
             'brand': brand,
-            'price': price,
+            'price_RP': price_RP,
             'description': description, 
             'material': material,   
             'size': size,
