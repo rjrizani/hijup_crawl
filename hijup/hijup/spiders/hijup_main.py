@@ -16,8 +16,9 @@ class HijupMainSpider(CrawlSpider):
             LinkExtractor(
                 #?product_search%5Bpage%5D=
                 allow=[r"product_search%5Bpage%5D=",
-                       r"skirt",
-                       r"pants",
+                       #r"skirt",
+                       #r"pants",
+                       r'tunik'
                    
                 ], 
             ),
@@ -43,17 +44,19 @@ class HijupMainSpider(CrawlSpider):
         img_url = response.css('img.css-18aq413::attr(src)').get()
         scraped_at =  datetime.now().date()
 
-        yield {
-            'title': title,
-            'brand': brand,
-            'price_RP': price_RP,
-            'description': description, 
-            'material': material,   
-            'size': size,
-            'color': color,
-            'availability': availability,
-            'url': url, 
-            'img_url': img_url,
-            'scraped_at': scraped_at  
-        }
-
+        if availability is not None and availability not in 'Sold Out':
+            yield {
+                'title': title,
+                'brand': brand,
+                'price_RP': price_RP,
+                'description': description, 
+                'material': material,   
+                'size': size,
+                'color': color,
+                'availability': availability,
+                'url': url, 
+                'img_url': img_url,
+                'scraped_at': scraped_at
+            }
+        else:
+            pass
